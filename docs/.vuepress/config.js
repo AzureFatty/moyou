@@ -17,7 +17,7 @@ module.exports = {
             // Don't forget to install moment yourself
             const moment = require('moment')
             moment.locale('zh-CN')
-            return moment(timestamp).fromNow()
+            return moment(timestamp).format('YYYY-MM-DD HH:mm')
           }
         }]
     ],
