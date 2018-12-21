@@ -67,11 +67,19 @@ module.exports = {
         
       ],
       '/garage/': [
+        ['',"机车精选"],
         {
-          title: '按品牌',
+           title: '车辆牌照',
+                collapsable: false,
+                children: [
+                  'license-plate/'
+                ]
+         },
+        {
+          title: '车辆品牌',
           collapsable: false,
           children: [
-            '',
+
             'honda/'
           ]
         },
