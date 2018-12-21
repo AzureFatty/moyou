@@ -73,7 +73,8 @@ module.exports = {
                 collapsable: false,
                 children: [
                   'license-plate/a-or-b',
-                  'license-plate/company-or-personal'
+                  'license-plate/company-or-personal',
+                  'license-plate/restrict-policy'
                 ]
          },
         {
