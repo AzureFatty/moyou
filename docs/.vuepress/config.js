@@ -72,7 +72,8 @@ module.exports = {
            title: '车辆牌照',
                 collapsable: false,
                 children: [
-                  'license-plate/'
+                  'license-plate/a-or-b',
+                  'license-plate/company-or-personal'
                 ]
          },
         {
