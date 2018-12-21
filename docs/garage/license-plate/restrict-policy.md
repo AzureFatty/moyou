@@ -2,12 +2,15 @@
 
 ### 京A禁行示意图
 
-![](https://ww1.sinaimg.cn/large/007iUjdily1fyedn46hrkj30u00tx77l.jpg)
+![京A禁行示意图](https://ww1.sinaimg.cn/large/007iUjdily1fyedn46hrkj30u00tx77l.jpg)
 
 ### 京B禁行示意图
 
-![](https://ww1.sinaimg.cn/large/007iUjdily1fyedmsv5dpj30u00qon07.jpg)
+![京B禁行示意图](https://ww1.sinaimg.cn/large/007iUjdily1fyedmsv5dpj30u00qon07.jpg)
 
+### 密云区限行示意图
+
+![密云区限行示意图](https://ww1.sinaimg.cn/large/007iUjdily1fyeszcb2euj30u011smzk.jpg)
 
 ### 北京市限行政策
 ::: warning 京A
