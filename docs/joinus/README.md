@@ -2,7 +2,7 @@
 
 ## Github
 ::: tip
-我们更欢迎您以此形式加入我们，当然Github的形式对于非技术人员要求会更高。
+我们更欢迎您以此形式加入我们，当然Github的形式对于非技术人员来说，门槛会比较高。
 :::
 **Github:** [https://github.com/360moyou/moyou](https://github.com/360moyou/moyou)
 
