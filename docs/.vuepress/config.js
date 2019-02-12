@@ -127,7 +127,8 @@ module.exports = {
         },
       ],
       '/skill/': [
-        ''
+        ['',"骑技心得"],
+        ['traffic_violation/',"违章易发区"],
       ]
     }
   }
