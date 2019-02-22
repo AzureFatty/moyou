@@ -61,7 +61,8 @@ module.exports = {
             'choice',
             'dfss',
             'gjjx',
-            'jdf'
+            'jdf',
+            'hdjx'
           ]
         },
         
