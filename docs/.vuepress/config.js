@@ -82,9 +82,10 @@ module.exports = {
            title: '车辆推荐',
            collapsable: false,
            children: [
+             'recommend/scooter',
              'recommend/junior-motorcycle',
              'recommend/intermediate-motorcycle',
-             'recommend/advanced-motorcycle'
+             'recommend/advanced-motorcycle',
            ]
         },
       ],
