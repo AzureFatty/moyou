@@ -101,6 +101,14 @@ module.exports = {
             'recorder/gopro',
           ]
         },
+        {
+          title: '扩展配件',
+          collapsable: false,
+          children:[
+            'extensions/mobile-phone-holder',
+            'extensions/lock',
+          ]
+        }
       ],
       '/repair/': [
         {
