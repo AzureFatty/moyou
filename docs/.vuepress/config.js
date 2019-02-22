@@ -70,20 +70,19 @@ module.exports = {
         ['',"机车精选"],
         {
            title: '车辆牌照',
-                collapsable: false,
-                children: [
-                  'license-plate/a-or-b',
-                  'license-plate/company-or-personal',
-                  'license-plate/restrict-policy'
-                ]
-         },
+           collapsable: false,
+           children: [
+             'license-plate/a-or-b',
+             'license-plate/company-or-personal',
+             'license-plate/restrict-policy'
+           ]
+        },
         {
-          title: '车辆品牌',
-          collapsable: false,
-          children: [
-
-            'honda/'
-          ]
+           title: '车辆推荐',
+           collapsable: false,
+           children: [
+             'recommend/junior-motorcycle'
+           ]
         },
       ],
       '/equipment/': [
