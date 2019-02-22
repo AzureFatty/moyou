@@ -81,7 +81,9 @@ module.exports = {
            title: '车辆推荐',
            collapsable: false,
            children: [
-             'recommend/junior-motorcycle'
+             'recommend/junior-motorcycle',
+             'recommend/intermediate-motorcycle',
+             'recommend/advanced-motorcycle'
            ]
         },
       ],
