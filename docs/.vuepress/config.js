@@ -33,7 +33,7 @@ module.exports = {
       { text: '机车精选', link: '/garage/' }, // 内部链接
       { text: '骑行装备', link: '/equipment/' }, // 内部链接
       { text: '维修保养', link: '/repair/' }, // 内部链接
-      { text: '骑技心得', link: '/skill/' }, // 内部链接
+      { text: '骑技心得', link: '/skills/' }, // 内部链接
       // 下拉列表
       {
         text: '关于',
@@ -137,8 +137,15 @@ module.exports = {
           ]
         },
       ],
-      '/skill/': [
+      '/skills/': [
         ['',"骑技心得"],
+        {
+          title: '新手技巧',
+          collapsable: false,
+          children: [
+            'noobs/ten-motorcycle-riding-tips-tricks-and-techniques'
+          ]
+        },
         ['traffic_violation/',"违章易发区"],
       ]
     }
