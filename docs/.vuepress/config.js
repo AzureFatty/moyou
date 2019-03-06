@@ -95,6 +95,7 @@ module.exports = {
           title: '运动相机/记录仪',
           collapsable: false,
           children: [
+            'recorder/',
             'recorder/sjcam',
             'recorder/yi',
             'recorder/sony',
