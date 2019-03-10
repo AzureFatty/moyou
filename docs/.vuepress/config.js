@@ -131,6 +131,13 @@ module.exports = {
           ]
         },
         {
+          title: '刹车',
+          collapsable: false,
+          children: [
+            'brake/honda190-brake-system-maintenance'
+          ]
+        },
+        {
           title: '车险',
           collapsable: false,
           children: [
