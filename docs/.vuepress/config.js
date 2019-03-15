@@ -93,6 +93,8 @@ module.exports = {
            collapsable: false,
            children: [
              ['motor-register/acquisition-tax',"1.车辆购置税缴纳"],
+             ['motor-register/insurance',"2.上交强险"],
+             ['motor-register/temp-license',"3.办理临牌"],
            ]
         },
         {
