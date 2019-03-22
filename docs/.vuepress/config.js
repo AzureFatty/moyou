@@ -92,9 +92,11 @@ module.exports = {
            title: '车辆登记流程',
            collapsable: false,
            children: [
-             ['motor-register/acquisition-tax',"1.车辆购置税缴纳"],
-             ['motor-register/insurance',"2.上交强险"],
+            ['motor-register/',"概述"],
+             ['motor-register/insurance',"1.上交强险"],
+             ['motor-register/acquisition-tax',"2.车辆购置税缴纳"],
              ['motor-register/temp-license',"3.办理临牌"],
+             ['motor-register/check-motor',"4.验车上牌"],
            ]
         },
         {
