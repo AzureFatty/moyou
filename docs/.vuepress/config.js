@@ -118,6 +118,13 @@ module.exports = {
           ]
         },
         {
+          title: '装备选购经验',
+          collapsable: true,
+          children: [
+            'experience/real-CE-logo',
+          ]
+        },
+        {
           title: '运动相机/记录仪',
           collapsable: false,
           children: [
