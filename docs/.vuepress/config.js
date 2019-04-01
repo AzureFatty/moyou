@@ -110,6 +110,14 @@ module.exports = {
       '/equipment/': [
         '',
         {
+          title: '装备实体店',
+          collapsable: true,
+          children: [
+            'shop/jichewaigua',
+            'shop/dainese',
+          ]
+        },
+        {
           title: '运动相机/记录仪',
           collapsable: false,
           children: [
