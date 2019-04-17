@@ -9,11 +9,10 @@
 ## 360摩友微信群
 
 ::: warning 注意
-请扫码加群主，群主再邀请加入本俱乐部
+因群内成员较多，请扫码加群主或群助理，群主或群助理再邀请加入本俱乐部
 
 加好友时请备注来源「360摩友会官网」
 
 暂时仅限北京地区360集团或360旗下同事加入
 :::
-
-![](https://ww1.sinaimg.cn/large/007iUjdily1fyet1pxzbwj30dw0i2glh.jpg)
+![](https://ae01.alicdn.com/kf/HTB166ytRxnaK1RjSZFtq6zC2VXae.jpg)
