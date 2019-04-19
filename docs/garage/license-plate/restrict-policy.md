@@ -14,6 +14,10 @@
 
 ### 大兴区限行示意图（2019年01月01日起，不分A/B）
 
+工作地或者居住地在限行区域内的，可以到当地相关部门开具证明，开具证明后可以在限行区域内行驶。
+
+![大兴区限行示意图](https://ww1.sinaimg.cn/large/007i4MEmgy1g27r0by1nbj30u019041t.jpg)
+
 ![大兴区限行示意图](https://ww1.sinaimg.cn/large/007i4MEmgy1fyt5ak53knj30he0ifjw9.jpg)
 
 ### 北京市限行政策
