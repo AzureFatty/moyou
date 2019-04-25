@@ -3,7 +3,7 @@
 
 ### XENA碟刹锁
 
-![XENA碟刹锁](https://ww1.sinaimg.cn/large/007i4MEmgy1g0fdws1blgj30ke0c140s.jpg)
+![XENA碟刹锁](https://ae01.alicdn.com/kf/HTB1RzkRbdzvK1RkSnfo762MwVXad.png)
 
 > 此款锁具，购买处较多，不再贴出地址。部分商家可9折购买，不清楚的可以联系群内咨询。
 
@@ -15,7 +15,7 @@
 
 ### DF链条锁
 
-![DF链条锁](https://ww1.sinaimg.cn/large/007i4MEmgy1g0fe7hjdd3j30kg0dnmzh.jpg)
+![DF链条锁](https://ae01.alicdn.com/kf/HTB1g13Qbh2rK1RkSnhJ761kdpXav.png)
 
 > 此款锁具，购买处较多，不再贴出地址。
 

@@ -12,4 +12,4 @@
 
 百度地图：[https://j.map.baidu.com/BVnv2](https://j.map.baidu.com/BVnv2)
 
-![DAINESE装备店铺图示](https://ww1.sinaimg.cn/large/007i4MEmly1g1n4k3vw2zj30ob0kpq6c.jpg)
+![DAINESE装备店铺图示](https://ae01.alicdn.com/kf/HTB1hal2O3DqK1RjSZSy761xEVXaG.png)

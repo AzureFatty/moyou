@@ -8,7 +8,7 @@
 
 [样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XMzkzMDY4MTAwNA==.html)
 
-[![](https://ww1.sinaimg.cn/large/007iUjdily1fxgz0kbo16j31hc0u0akl)](http://v.youku.com/v_show/id_XMzkzMDY4MTAwNA==.html)
+[![](https://ae01.alicdn.com/kf/HTB1hRycX2LsK1Rjy0Fbq6xSEXXa4.jpg)](http://v.youku.com/v_show/id_XMzkzMDY4MTAwNA==.html)
 
 ### 夜晚效果
 
@@ -16,4 +16,4 @@
 
 [样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XMzkzMjI3ODA3Mg==.html)
 
-[![](https://ww1.sinaimg.cn/large/007iUjdily1fxhto3s148j31hc0u0n4c)](http://v.youku.com/v_show/id_XMzkzMjI3ODA3Mg==.html)
+[![](https://ae01.alicdn.com/kf/HTB1uPHwXPLuK1Rjy0Fh760pdFXaQ.png)](http://v.youku.com/v_show/id_XMzkzMjI3ODA3Mg==.html)

@@ -8,9 +8,9 @@
 
 [样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XMzkzMDc0MzMxMg==.html)
 
-[![](https://ww1.sinaimg.cn/large/007iUjdily1fxgyym45rdj30zk0k0twp)](http://v.youku.com/v_show/id_XMzkzMDc0MzMxMg==.html)
+[![](https://ae01.alicdn.com/kf/HTB1EM9mX6nuK1RkSmFP763uzFXad.png)](http://v.youku.com/v_show/id_XMzkzMDc0MzMxMg==.html)
 
 ### 夜晚
 [样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XMzk2MzUzNjYwMA==.html)
 
-[![](https://ww1.sinaimg.cn/large/007iUjdily1fy62qzzhltj30zk0k0482.jpg)](http://v.youku.com/v_show/id_XMzk2MzUzNjYwMA==.html)
+[![](https://ae01.alicdn.com/kf/HTB1eJNNv6TpK1RjSZKP7613UpXa8.png)](http://v.youku.com/v_show/id_XMzk2MzUzNjYwMA==.html)

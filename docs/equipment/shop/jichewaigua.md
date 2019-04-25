@@ -13,6 +13,6 @@
 
 百度地图：[https://j.map.baidu.com/ArPiG](https://j.map.baidu.com/ArPiG)
 
-![机车外挂骑士装备店铺图示](https://ww1.sinaimg.cn/large/007i4MEmly1g1n498mnuqj30qb0kodjz.jpg)
+![机车外挂骑士装备店铺图示](https://ae01.alicdn.com/kf/HTB1yyt6O4TpK1RjSZFM762G_VXaR.png)
 
 

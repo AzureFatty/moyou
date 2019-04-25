@@ -8,7 +8,7 @@
 
 [样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XMzkzMTA3MjQzMg==.html)
 
-[![](https://ww1.sinaimg.cn/large/007iUjdily1fxgyzntng6j31hc0u0qdw)](http://v.youku.com/v_show/id_XMzkzMTA3MjQzMg==.html)
+[![](https://ae01.alicdn.com/kf/HTB1g_KhX4_rK1RkHFqDq6yJAFXai.jpg)](http://v.youku.com/v_show/id_XMzkzMTA3MjQzMg==.html)
 
 ---
 
@@ -16,4 +16,4 @@
 
 [样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XMzkzMTI3MzA1Ng==.html)
 
-[![](https://ww1.sinaimg.cn/large/007iUjdily1fxgyr3zom2j31hc0u0e81)](http://v.youku.com/v_show/id_XMzkzMTI3MzA1Ng==.html)
+[![](https://ae01.alicdn.com/kf/HTB1zJiiX6vuK1Rjy0Fa7602aVXap.png)](http://v.youku.com/v_show/id_XMzkzMTI3MzA1Ng==.html)

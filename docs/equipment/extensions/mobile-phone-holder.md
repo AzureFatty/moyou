@@ -2,7 +2,7 @@
 ---
 
 ### 五匹摩托车手机导航支架
-![五匹摩托车手机导航支架图](https://ww1.sinaimg.cn/large/007i4MEmgy1g0fdm5595rj30l10eytc3.jpg)
+![五匹摩托车手机导航支架图](https://ae01.alicdn.com/kf/HTB1olp5bjLuK1Rjy0Fh760pdFXax.png)
 [五匹摩托车手机导航支架购买链接](https://detail.tmall.com/item.htm?id=537638303844)
 
 :::tip 点评
