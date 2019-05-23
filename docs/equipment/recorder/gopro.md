@@ -13,23 +13,31 @@
 
 ### 白天效果
 
-:::tip 提示
-以下视频在1080P/60fps模式下拍摄
-:::
-
 [样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XMzkzMTAwMTI5Mg==.html)
+
+:::tip 提示
+该视频在1080P/60fps模式下拍摄
+:::
 
 [![](https://ae01.alicdn.com/kf/HTB1SxyiX6zuK1RjSspeq6ziHVXaZ.jpg)](http://v.youku.com/v_show/id_XMzkzMTAwMTI5Mg==.html)
 
+---
+
 [样片二：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDAwMjkzNjQ1Ng==.html)
+
+:::tip 提示
+该视频在1080P/60fps模式下拍摄
+:::
 
 [![](https://ae01.alicdn.com/kf/HTB1Icoiau6sK1RjSsrb760bDXXaP.png)](http://v.youku.com/v_show/id_XNDAwMjkzNjQ1Ng==.html)
 
-:::tip 提示
-以下视频在4K/60fps模式下拍摄
-:::
+---
 
-[样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDAwMjgzNzkxMg==.html)
+[样片三：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDAwMjgzNzkxMg==.html)
+
+:::tip 提示
+该视频在4K/60fps模式下拍摄
+:::
 
 [![](https://ae01.alicdn.com/kf/HTB1CYImavfsK1RjSszb763qBXXab.png)](http://v.youku.com/v_show/id_XNDAwMjgzNzkxMg==.html)
 
@@ -37,22 +45,31 @@
 
 ### 夜晚效果
 
+[样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDAwMjc4MTAzMg==.html)
+
 :::tip 提示
 该视频在1080P/60fps模式下拍摄
 :::
 
-[样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDAwMjc4MTAzMg==.html)
-
 [![](https://ae01.alicdn.com/kf/HTB1UWMjaE_rK1Rjy0Fc762EvVXaw.png)](http://v.youku.com/v_show/id_XNDAwMjc4MTAzMg==.html)
+
+---
 
 [样片二：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDAwMjgyMDcwNA==.html)
 
-[![](https://ae01.alicdn.com/kf/HTB1SAgmavvsK1RjSspd763ZepXa8.png)](http://v.youku.com/v_show/id_XNDAwMjgyMDcwNA==.html)
-
 :::tip 提示
-以下视频在4K/60fps模式下拍摄
+该视频在1080P/60fps模式下拍摄
 :::
 
-[样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDAwMjgwMDczNg==.html)
+[![](https://ae01.alicdn.com/kf/HTB1SAgmavvsK1RjSspd763ZepXa8.png)](http://v.youku.com/v_show/id_XNDAwMjgyMDcwNA==.html)
+
+---
+
+[样片三：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDAwMjgwMDczNg==.html)
+
+:::tip 提示
+该视频在4K/60fps模式下拍摄
+:::
+
 
 [![](https://ae01.alicdn.com/kf/HTB1LVgraDjxK1Rjy0Fn761BaFXaq.png)](http://v.youku.com/v_show/id_XNDAwMjgwMDczNg==.html)
