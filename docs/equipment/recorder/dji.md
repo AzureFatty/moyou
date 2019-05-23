@@ -1,6 +1,6 @@
 # 大疆
 
-## OSMO ACTION(大疆灵眸)样片
+## 大疆灵眸 OSMO ACTION 样片
 
 ### 白天效果
 
