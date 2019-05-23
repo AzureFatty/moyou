@@ -134,6 +134,7 @@ module.exports = {
             'recorder/yi',
             'recorder/sony',
             'recorder/gopro',
+            'recorder/dji',
           ]
         },
         {
