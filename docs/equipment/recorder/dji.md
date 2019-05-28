@@ -1,6 +1,6 @@
 # 大疆
 
-## 大疆灵眸 OSMO ACTION 样片
+## 大疆灵眸 DJI Mimo 样片
 
 ### 白天效果
 
@@ -17,7 +17,7 @@
 [样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDE5MzI5MTk4OA==.html)
 
 :::tip 提示
-该视频在1080P/60fps模式下，安装在KTM Duke 390车把上，使用五匹记录仪支架固定
+该视频在1080P/60fps模式下，安装在KTM 390 Duke车把上，使用五匹记录仪支架固定进行**防抖测试**。
 :::
 
 [![](https://ae01.alicdn.com/kf/HTB14paiX.KF3KVjSZFE760ExFXaz.png)](http://v.youku.com/v_show/id_XNDE5MzI5MTk4OA==.html)
