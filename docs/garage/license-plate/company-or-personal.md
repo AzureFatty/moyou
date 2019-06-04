@@ -19,7 +19,7 @@
 - 有部分挂靠公司出现两三年注销公司的情况，后续再办理业务时，导致无法出示相关证明（真遇到这个问题了，也有渠道解决，肯定是需要花钱的了，甚至存在风险。）；
 
 ::: tip 提示
-公户违章查询办法（需要注册）：[http://www.bjjtgl.gov.cn/](http://www.bjjtgl.gov.cn/)
+违章查询入口（公户可用）：[http://bj.122.gov.cn/](http://bj.122.gov.cn/views/inquiry.html?q=j)
 ::: 
 
 
