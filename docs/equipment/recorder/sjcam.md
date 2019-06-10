@@ -7,7 +7,9 @@
 [样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XMzkzMDc0MzMxMg==.html)
 
 :::tip 提示
+
 该视频在720P/25fps下拍摄
+
 :::
 
 [![](https://ae01.alicdn.com/kf/HTB1EM9mX6nuK1RkSmFP763uzFXad.png)](http://v.youku.com/v_show/id_XMzkzMDc0MzMxMg==.html)
@@ -17,7 +19,9 @@
 [样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XMzk2MzUzNjYwMA==.html)
 
 :::tip 提示
+
 该视频在720P/25fps下拍摄
+
 :::
 
 [![](https://ae01.alicdn.com/kf/HTB1eJNNv6TpK1RjSZKP7613UpXa8.png)](http://v.youku.com/v_show/id_XMzk2MzUzNjYwMA==.html)

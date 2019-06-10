@@ -1,11 +1,13 @@
 # GoPro
 
 :::warning 注意
+
 视频截图均经过一定的压缩,仅为了方便预览。
 
 视频上传优酷之后也会进行压缩转码，因此，视频成像仅供参考。
 
 另外4K视频上传优酷之后，优酷进行了压缩转码，最高支持1080P观看。
+
 :::
 
 
@@ -16,7 +18,9 @@
 [样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XMzkzMTAwMTI5Mg==.html)
 
 :::tip 提示
+
 该视频在1080P/60fps模式下拍摄
+
 :::
 
 [![](https://ae01.alicdn.com/kf/HTB1SxyiX6zuK1RjSspeq6ziHVXaZ.jpg)](http://v.youku.com/v_show/id_XMzkzMTAwMTI5Mg==.html)
@@ -26,7 +30,9 @@
 [样片二：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDAwMjkzNjQ1Ng==.html)
 
 :::tip 提示
+
 该视频在1080P/60fps模式下拍摄
+
 :::
 
 [![](https://ae01.alicdn.com/kf/HTB1Icoiau6sK1RjSsrb760bDXXaP.png)](http://v.youku.com/v_show/id_XNDAwMjkzNjQ1Ng==.html)
@@ -36,7 +42,9 @@
 [样片三：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDAwMjgzNzkxMg==.html)
 
 :::tip 提示
+
 该视频在4K/60fps模式下拍摄
+
 :::
 
 [![](https://ae01.alicdn.com/kf/HTB1CYImavfsK1RjSszb763qBXXab.png)](http://v.youku.com/v_show/id_XNDAwMjgzNzkxMg==.html)
@@ -48,7 +56,9 @@
 [样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDAwMjc4MTAzMg==.html)
 
 :::tip 提示
+
 该视频在1080P/60fps模式下拍摄
+
 :::
 
 [![](https://ae01.alicdn.com/kf/HTB1UWMjaE_rK1Rjy0Fc762EvVXaw.png)](http://v.youku.com/v_show/id_XNDAwMjc4MTAzMg==.html)
@@ -58,7 +68,9 @@
 [样片二：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDAwMjgyMDcwNA==.html)
 
 :::tip 提示
+
 该视频在1080P/60fps模式下拍摄
+
 :::
 
 [![](https://ae01.alicdn.com/kf/HTB1SAgmavvsK1RjSspd763ZepXa8.png)](http://v.youku.com/v_show/id_XNDAwMjgyMDcwNA==.html)
@@ -68,7 +80,9 @@
 [样片三：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDAwMjgwMDczNg==.html)
 
 :::tip 提示
+
 该视频在4K/60fps模式下拍摄
+
 :::
 
 
