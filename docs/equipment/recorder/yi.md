@@ -78,8 +78,20 @@
 虽然设备支持4K的录制，但该视频在1080P/60fps模式下拍摄
 
 :::
+
 [![](https://ae01.alicdn.com/kf/HTB1blmNa9SD3KVjSZFK76210VXaH.png)](http://v.youku.com/v_show/id_XNDIwNDA0NDczMg==.html)
 
+---
+
+[样片三：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDIzMzk5MjEyNA==.html)
+
+:::tip 提示
+
+虽然设备支持4K的录制，但该视频在1080P/60fps模式下拍摄，安装在KTM 390 Duke车把上，使用五匹记录仪支架固定进行**防抖测试**。
+
+:::
+
+[![](https://ae01.alicdn.com/kf/HTB1gDD5dlGE3KVjSZFh763kaFXaI.png)](http://v.youku.com/v_show/id_XNDIzMzk5MjEyNA==.html)
 
 ---
 
@@ -94,4 +106,19 @@
 :::
 
 [![](https://ae01.alicdn.com/kf/HTB1CWiZa8Cw3KVjSZR0762cUpXaC.png)](http://v.youku.com/v_show/id_XNDIwNDEyNTI3Ng==.html)
+
+---
+
+[样片而：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDIzMzk4MjMxMg==.html)
+
+:::tip 提示
+
+本视频在**黄昏时分**拍摄
+
+虽然设备支持4K的录制，但该视频在1080P/60fps模式下拍摄，安装在KTM 390 Duke车把上，使用五匹记录仪支架固定进行**防抖测试**。
+
+:::
+
+
+[![](https://ae01.alicdn.com/kf/HTB1TSr6dlaE3KVjSZLe760sSFXaJ.png)](http://v.youku.com/v_show/id_XNDIzMzk4MjMxMg==.html)
 
