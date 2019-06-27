@@ -22,9 +22,9 @@ module.exports = {
         }]
     ],
   themeConfig: {
-    repo: '360moyou/moyou',
+    repo: 'EngrZhou/moyou',
     editLinks: true,
-    docsRepo: '360moyou/moyou',
+    docsRepo: 'EngrZhou/moyou',
     docsDir: 'docs',
     editLinkText: 'Edit this page on GitHub',
     lastUpdated: 'Last Updated', // 文档更新时间：每个文件git最后提交的时间
