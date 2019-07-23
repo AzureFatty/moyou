@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "@vuepress/plugin-active-header-links": "^1.0.0",
-    "@vuepress/plugin-back-to-top": "^1.0.0",
-    "@vuepress/plugin-blog": "^1.0.0",
-    "@vuepress/plugin-medium-zoom": "^1.0.0",
+    "@vuepress/plugin-active-header-links": "^1.0.2",
+    "@vuepress/plugin-back-to-top": "^1.0.2",
+    "@vuepress/plugin-blog": "^1.0.2",
+    "@vuepress/plugin-medium-zoom": "^1.0.2",
     "@vuepress/plugin-pagination": "^1.0.0-alpha.50",
-    "@vuepress/plugin-search": "^1.0.0",
+    "@vuepress/plugin-search": "^1.0.2",
     "moment": "^2.23.0",
-    "vuepress": "^1.0.0"
+    "vuepress": "^1.0.2"
   },
   "scripts": {
     "docs:h": "vuepress -h",
@@ -18,13 +18,13 @@
     "blog:build": "vuepress build blog"
   },
   "devDependencies": {
-    "@vuepress/plugin-active-header-links": "^1.0.0",
-    "@vuepress/plugin-back-to-top": "^1.0.0",
-    "@vuepress/plugin-blog": "^1.0.0",
-    "@vuepress/plugin-medium-zoom": "^1.0.0",
+    "@vuepress/plugin-active-header-links": "^1.0.2",
+    "@vuepress/plugin-back-to-top": "^1.0.2",
+    "@vuepress/plugin-blog": "^1.0.2",
+    "@vuepress/plugin-medium-zoom": "^1.0.2",
     "@vuepress/plugin-pagination": "^1.0.0-alpha.50",
-    "@vuepress/plugin-search": "^1.0.0",
+    "@vuepress/plugin-search": "^1.0.2",
     "moment": "^2.23.0",
-    "vuepress": "^1.0.0"
+    "vuepress": "^1.0.2"
   }
 }
