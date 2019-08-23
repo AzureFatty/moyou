@@ -157,6 +157,7 @@ module.exports = {
             ['location/yiming',"口鸟机车「荐」"],
             'location/haojue',
             'location/xiaosheng',
+            'location/dadihengtong-flagship-store',
             'location/fenghuolun',
             'location/bgfanfan',
           ]
