@@ -52,7 +52,9 @@ module.exports = {
           title: '经验',
           collapsable: false,
           children: [
-            ''
+            '',
+            'tmpid',
+            'renew'
           ]
         },
         {
