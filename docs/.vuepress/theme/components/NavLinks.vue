@@ -54,6 +54,7 @@ export default {
         const themeLocales = this.$site.themeConfig.locales || {}
         const languageDropdown = {
           text: this.$themeLocaleConfig.selectText || 'Languages',
+          ariaLabel: this.$themeLocaleConfig.ariaLabel || 'Select language',
           items: Object.keys(locales).map(path => {
             const locale = locales[path]
             const text = themeLocales[path] && themeLocales[path].label || locale.lang
@@ -92,6 +93,7 @@ export default {
           ? repo
           : `https://github.com/${repo}`
       }
+      return null
     },
 
     repoLabel () {

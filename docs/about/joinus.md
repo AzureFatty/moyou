@@ -9,15 +9,15 @@
 :::
 **Github:** [https://github.com/EngrZhou/moyou](https://github.com/EngrZhou/moyou)
 
-## 360摩友微信群
+## 奇友会微信群
 
 ::: warning 注意
 
 因群内成员较多，请扫码加群主或群助理，群主或群助理再邀请加入本俱乐部
 
-加好友时请备注来源「360摩友会官网」
+加好友时请备注来源「奇友会官网」
 
-暂时仅限北京地区360集团或360旗下同事加入
+暂时仅限北京地区360集团、360旗下、奇安信以及奇安信旗下同事加入
 
 :::
 ![](https://ae01.alicdn.com/kf/HTB166ytRxnaK1RjSZFtq6zC2VXae.jpg)

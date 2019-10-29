@@ -21,11 +21,11 @@
     >
       <slot
         name="sidebar-top"
-        slot="top"
+        #top
       />
       <slot
         name="sidebar-bottom"
-        slot="bottom"
+        #bottom
       />
     </Sidebar>
 
@@ -37,11 +37,11 @@
     >
       <slot
         name="page-top"
-        slot="top"
+        #top
       />
       <slot
         name="page-bottom"
-        slot="bottom"
+        #bottom
       />
     </Page>
   </div>
@@ -121,6 +121,7 @@ export default {
   methods: {
     toggleSidebar (to) {
       this.isSidebarOpen = typeof to === 'boolean' ? to : !this.isSidebarOpen
+      this.$emit('toggle-sidebar', this.isSidebarOpen)
     },
 
     // side swipe
@@ -145,5 +146,3 @@ export default {
   }
 }
 </script>
-
-<style src="prismjs/themes/prism-tomorrow.css"></style>
