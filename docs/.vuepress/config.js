@@ -166,6 +166,14 @@ module.exports = {
           ]
         },
         {
+          title: '洗车',
+          collapsable: false,
+          children: [
+            ['washing/shunchi',"顺驰汽车"],
+            'washing/ttclub',
+          ]
+        },
+        {
           title: '机油',
           collapsable: false,
           children: [
