@@ -46,6 +46,6 @@ footer: Copyright © 2019 奇友会
 
 特别感谢参与[**物资赞助**](about/materials-sponsor)者
 
-「乌卡」、「逍遥」、「fate」、「萌」、「口鸟」、「车神」、「Wallace」、「viol_x」、「The shadow」、「龙骑士」、「小伞」、「徐帮主」、
+「乌卡」、「兔爷儿」、「逍遥」、「fate」、「萌」、「口鸟」、「车神」、「Wallace」、「viol_x」、「The shadow」、「龙骑士」、「小伞」、「徐帮主」、
 「Ash」、「亦可赛艇」、「BlackMete0r」、「山神」、「肖腾飞」、「烧胎王」、「主席」、「老四」、「老杨头」、「阿波波波」、「滕森轮胎」
 :::
