@@ -24,6 +24,18 @@
 
 ::: 
 
+::: tip 公户公司运营状态查询入口
+
+- 国家企业信用信息公示系统：[http://www.gsxt.gov.cn/](http://www.gsxt.gov.cn/)
+
+- 天眼查：[https://www.tianyancha.com/](https://www.tianyancha.com/)
+
+- 企查查：[https://www.qichacha.com/](https://www.qichacha.com/)
+
+输入行驶证的企业信息，查询公司运营状态。
+
+::: 
+
 
 ### 私户
 

@@ -8,10 +8,11 @@ module.exports = {
     lineNumbers: true // 代码块显示行号
   },
   plugins: [
-        ['@vuepress/active-header-links',true],
-        ['@vuepress/pagination',true],
-        ['@vuepress/medium-zoom',true],
-        ['@vuepress/back-to-top',true],
+        'flowchart',
+        '@vuepress/active-header-links',
+        '@vuepress/pagination',
+        '@vuepress/medium-zoom',
+        '@vuepress/back-to-top',
         ['@vuepress/last-updated',{
           transformer: (timestamp, lang) => {
             // Don't forget to install moment yourself
@@ -93,13 +94,26 @@ module.exports = {
         },
         {
            title: '车辆登记流程',
-           collapsable: false,
+           collapsable: true,
            children: [
-            ['motor-register/',"概述"],
+             ['motor-register/',"概述"],
              ['motor-register/insurance',"1.上交强险"],
              ['motor-register/acquisition-tax',"2.车辆购置税缴纳"],
              ['motor-register/temp-license',"3.办理临牌"],
              ['motor-register/check-motor',"4.验车上牌"],
+           ]
+        },
+        'trade/',
+        {
+           title: '车辆过户流程',
+           collapsable: true,
+           children: [
+             ['motor-owner-transfer/',"提要"],
+             ['motor-owner-transfer/1-preparatory-work',"1.准备工作"],
+             ['motor-owner-transfer/2-flow-chart',"2.过户流程导向图「重要」"],
+             ['motor-owner-transfer/3-trade',"3.交易流程"],
+             ['motor-owner-transfer/4-check',"4.车辆检测"],
+             ['motor-owner-transfer/5-change-owner',"5.变更车辆信息，选号"]
            ]
         },
         {

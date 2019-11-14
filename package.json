@@ -8,7 +8,8 @@
     "@vuepress/plugin-search": "^1.2.0",
     "moment": "^2.23.0",
     "vue-toasted": "^1.1.25",
-    "vuepress": "^1.2.0"
+    "vuepress": "^1.2.0",
+    "vuepress-plugin-flowchart": "^1.4.3"
   },
   "scripts": {
     "docs:h": "vuepress -h",
@@ -27,6 +28,7 @@
     "@vuepress/plugin-search": "^1.2.0",
     "moment": "^2.23.0",
     "vue-toasted": "^1.1.25",
-    "vuepress": "^1.2.0"
+    "vuepress": "^1.2.0",
+    "vuepress-plugin-flowchart": "^1.4.3"
   }
 }
