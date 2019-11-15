@@ -103,18 +103,12 @@ module.exports = {
              ['motor-register/check-motor',"4.验车上牌"],
            ]
         },
-        'trade/',
         {
-           title: '车辆过户流程',
-           collapsable: true,
-           children: [
-             ['motor-owner-transfer/',"提要"],
-             ['motor-owner-transfer/1-preparatory-work',"1.准备工作"],
-             ['motor-owner-transfer/2-flow-chart',"2.过户流程导向图「重要」"],
-             ['motor-owner-transfer/3-trade',"3.交易流程"],
-             ['motor-owner-transfer/4-check',"4.车辆检测"],
-             ['motor-owner-transfer/5-change-owner',"5.变更车辆信息，选号"]
-           ]
+          title: '二手车交易',
+          children: [
+            ['trade/trade-knowledge',"心得"],
+            ['trade/motor-owner-transfer',"过户流程"]
+          ]
         },
         {
           title: '车险',
