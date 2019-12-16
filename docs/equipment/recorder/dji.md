@@ -1,6 +1,6 @@
 # 大疆
 
-## 大疆灵眸 DJI Mimo 样片
+## 大疆灵眸 DJI Osmo Action 样片
 
 ### 白天效果
 
@@ -31,6 +31,8 @@
 [样片一：点击跳转优酷视频网站播放](http://v.youku.com/v_show/id_XNDE5Mjk1ODIwNA==.html)
 
 :::tip 提示
+
+Osmo Action 因镜头擦拭不干净，导致拍摄出“大宝剑”的光晕效果，暂不做主要参考
 
 该视频在4K/30fps模式下拍摄，但是上传到优酷之后会被压缩到1080P
 

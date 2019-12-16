@@ -143,6 +143,7 @@ module.exports = {
           collapsable: false,
           children: [
             'recorder/',
+            'recorder/perspective',
             'recorder/sjcam',
             'recorder/yi',
             'recorder/sony',
@@ -157,6 +158,7 @@ module.exports = {
             'extensions/mobile-phone-holder',
             'extensions/lock',
             'extensions/charging',
+            'extensions/gopro-accessories'
           ]
         }
       ],
