@@ -14,7 +14,7 @@ features:
   details: 天下摩友一家，奇友们更是如此。
 - title: 成长
   details: 思想碰撞，百花齐放，让我们携手同行，一起成长。
-footer: Copyright © 2019 奇友会
+footer: Copyright © 2020 奇友会
 ---
 
 
