@@ -20,7 +20,7 @@
 
 ::: tip 提示
 
-违章查询入口（公户可用）：[http://bj.122.gov.cn/](http://bj.122.gov.cn/views/inquiry.html?q=j)
+机动车违法查询入口（公户可用）：[http://bj.122.gov.cn/](http://bj.122.gov.cn/views/inquiry.html?q=j)
 
 ::: 
 

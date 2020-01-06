@@ -55,7 +55,8 @@ module.exports = {
           children: [
             '',
             'tmpid',
-            'renew'
+            'renew',
+            'illegal-query'
           ]
         },
         {
