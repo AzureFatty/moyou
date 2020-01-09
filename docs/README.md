@@ -42,7 +42,7 @@ footer: Copyright © 2020 奇友会
 「主席」、「烧胎王」、「侃侃」、「dayong」、「宋白丁」、「小伞」、「乌卡」、「宋贵妃」、「老四」、「贾思阳」、「弟弟」、「小怪兽严旭」、
 「BlackMete0r」、「The shadow」、「口鸟」、「龙骑士」、「车神」、「山神」
 
-**采得百花成蜜后，为谁辛苦为谁甜**
+<span style="border-bottom:2px solid green;">**采得百花成蜜后，为谁辛苦为谁甜**</span>
 
 特别感谢参与[**物资赞助**](about/materials-sponsor)者
 
