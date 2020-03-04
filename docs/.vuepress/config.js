@@ -26,7 +26,11 @@ module.exports = {
         moment.locale('zh-CN')
         return moment(timestamp).format('YYYY-MM-DD HH:mm')
       }
-    }]
+    }],
+    'vuepress-plugin-baidu-autopush',
+    ['sitemap', {
+      hostname: 'https://moyou.fun'
+    }],
   ],
   themeConfig: {
     repo: 'EngrZhou/moyou',

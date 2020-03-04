@@ -9,7 +9,9 @@
     "moment": "^2.23.0",
     "vue-toasted": "^1.1.25",
     "vuepress": "^1.2.0",
-    "vuepress-plugin-flowchart": "^1.4.3"
+    "vuepress-plugin-flowchart": "^1.4.3",
+    "vuepress-plugin-baidu-autopush": "^1.0.1",
+    "vuepress-plugin-sitemap": "2.3.1"
   },
   "scripts": {
     "docs:h": "vuepress -h",
@@ -29,6 +31,8 @@
     "moment": "^2.23.0",
     "vue-toasted": "^1.1.25",
     "vuepress": "^1.2.0",
-    "vuepress-plugin-flowchart": "^1.4.3"
+    "vuepress-plugin-flowchart": "^1.4.3",
+    "vuepress-plugin-baidu-autopush": "^1.0.1",
+    "vuepress-plugin-sitemap": "2.3.1"
   }
 }
