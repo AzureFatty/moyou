@@ -61,5 +61,10 @@ module.exports = {
       '/repair/': sidebarRepair,
       '/skills/': sidebarSkills,
     },
+    algolia: {
+      appId: 'WPG0KS5PB1',
+      apiKey: '8cbe5822e8b9963024b7d5662d44ef35',
+      indexName: 'moyou'
+    }
   }
 }
