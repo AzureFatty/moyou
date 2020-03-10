@@ -8,11 +8,11 @@
 
 哔哩哔哩： [https://www.bilibili.com/video/av14607789/](https://www.bilibili.com/video/av14607789/)
 
-Youtube生肉版：[https://youtu.be/1vkFIx3zlhU](https://youtu.be/1vkFIx3zlhU)
+YouTube 生肉版：[https://youtu.be/1vkFIx3zlhU](https://youtu.be/1vkFIx3zlhU)
 
-Youtube熟肉版：[https://youtu.be/8TODNxHVVyY](https://youtu.be/8TODNxHVVyY)
+YouTube 熟肉版：[https://youtu.be/8TODNxHVVyY](https://youtu.be/8TODNxHVVyY)
 
-A twist of the wrist原版PDF：[https://pan.baidu.com/s/1PRfdMWgFwxk8nXLXm-6PUg](https://pan.baidu.com/s/1PRfdMWgFwxk8nXLXm-6PUg) 提取码: `i2hw `
+A twist of the wrist 原版PDF：[https://pan.baidu.com/s/1PRfdMWgFwxk8nXLXm-6PUg](https://pan.baidu.com/s/1PRfdMWgFwxk8nXLXm-6PUg) 提取码: `i2hw `
 
 
 ### B站网友笔记
