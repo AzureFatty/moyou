@@ -1,5 +1,12 @@
 module.exports = [
     {
+        title: '车辆维修资料',
+        collapsable: false,
+        children: [
+            'file_share/',
+        ]
+    },
+    {
         title: '维修网点',
         collapsable: false,
         children: [

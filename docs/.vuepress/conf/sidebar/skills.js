@@ -1,10 +1,10 @@
 module.exports = [
     ['', "骑技心得"],
     {
-        title: '资料分享',
+        title: '技术资料',
         collapsable: false,
         children: [
-            'file_share/road-sense',
+            'file_share/',
         ]
     },
     {

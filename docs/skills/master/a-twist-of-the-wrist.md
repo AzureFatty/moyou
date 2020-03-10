@@ -12,7 +12,7 @@ YouTube 生肉版：[https://youtu.be/1vkFIx3zlhU](https://youtu.be/1vkFIx3zlhU)
 
 YouTube 熟肉版：[https://youtu.be/8TODNxHVVyY](https://youtu.be/8TODNxHVVyY)
 
-A twist of the wrist 原版PDF：[https://pan.baidu.com/s/1PRfdMWgFwxk8nXLXm-6PUg](https://pan.baidu.com/s/1PRfdMWgFwxk8nXLXm-6PUg) 提取码: `i2hw `
+A twist of the wrist 原版PDF：[https://pan.baidu.com/s/1My2uZrN5bXODjpkV8lvaqw](https://pan.baidu.com/s/1My2uZrN5bXODjpkV8lvaqw) 提取码: `wa34 `
 
 
 ### B站网友笔记
