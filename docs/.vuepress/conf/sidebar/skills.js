@@ -1,6 +1,13 @@
 module.exports = [
     ['', "骑技心得"],
     {
+        title: '资料分享',
+        collapsable: false,
+        children: [
+            'file_share/road-sense',
+        ]
+    },
+    {
         title: '新手技巧',
         collapsable: false,
         children: [
