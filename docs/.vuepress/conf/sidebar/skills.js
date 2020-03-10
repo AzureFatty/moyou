@@ -4,7 +4,14 @@ module.exports = [
         title: '新手技巧',
         collapsable: false,
         children: [
-            'noobs/ten-motorcycle-riding-tips-tricks-and-techniques'
+            'noobs/ten-motorcycle-riding-tips-tricks-and-techniques',
+        ]
+    },
+    {
+        title: '高手进阶',
+        collapsable: false,
+        children: [
+            'master/a-twist-of-the-wrist'
         ]
     },
     ['traffic_violation/', "违章易发区"],
