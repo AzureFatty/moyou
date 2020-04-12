@@ -5,6 +5,7 @@ module.exports = [
         collapsable: true,
         children: [
             'shop/jichewaigua',
+            'shop/ddacp',
             'shop/dainese',
         ]
     },
