@@ -29,7 +29,7 @@ module.exports = {
     }],
     'vuepress-plugin-baidu-autopush',
     ['sitemap', {
-      hostname: 'https://moyou.fun'
+      hostname: 'https://moyou.club'
     }],
   ],
   themeConfig: {

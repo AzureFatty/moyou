@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: 
 Disallow: /assets/
-Sitemap: https://moyou.fun/sitemap.xml
+Sitemap: https://moyou.club/sitemap.xml
