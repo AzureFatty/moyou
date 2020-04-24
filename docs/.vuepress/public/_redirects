@@ -1,2 +1,4 @@
 # Redirect default Netlify subdomain to primary domain
-https://motor.netlify.com/* https://moyou.fun/:splat 301!
+https://motor.netlify.com/* https://moyou.club/:splat 301!
+https://moyou.fun/* https://moyou.club/:splat 301!
+https://www.moyou.fun/* https://moyou.club/:splat 301!
