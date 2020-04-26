@@ -6,18 +6,19 @@ module.exports = [
             '',
             'tmpid',
             'renew',
-            'illegal-query'
+            'illegal-query',
+            'motor-check'
         ]
     },
     {
         title: '驾校选择',
         collapsable: false,
         children: [
-            'choice',
-            'dfss',
-            'gjjx',
-            'jdf',
-            'hdjx'
+            'school/choice',
+            'school/dfss',
+            'school/gjjx',
+            'school/jdf',
+            'school/hdjx'
         ]
     },
 ];

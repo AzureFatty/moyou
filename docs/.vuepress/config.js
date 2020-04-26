@@ -11,7 +11,7 @@ module.exports = {
     ['meta', { name: 'keywords', content: '360摩托,360机车,360摩友,360MOTOR,奇安信,奇安信摩托,奇安信机车,奇安信摩友,奇虎,奇虎摩托,奇虎机车,奇虎摩友,骑友会,奇友会' }],
   ],
   markdown: {
-    lineNumbers: true // 代码块显示行号
+    lineNumbers: false // 代码块显示行号
   },
   plugins: [
     'flowchart',
@@ -40,7 +40,7 @@ module.exports = {
     editLinkText: 'Edit this page on GitHub',
     lastUpdated: 'Last Updated', // 文档更新时间：每个文件git最后提交的时间
     nav: [
-      { text: '驾考心经', link: '/driver-license/' }, // 内部链接 以docs为根目录
+      { text: '驾考车检', link: '/driver-license/' }, // 内部链接 以docs为根目录
       { text: '选车登记', link: '/garage/' }, // 内部链接
       { text: '骑行装备', link: '/equipment/' }, // 内部链接
       { text: '维修保养', link: '/repair/' }, // 内部链接
