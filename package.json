@@ -11,13 +11,15 @@
     "vuepress": "^1.4.1",
     "vuepress-plugin-flowchart": "^1.4.3",
     "vuepress-plugin-baidu-autopush": "^1.0.1",
-    "vuepress-plugin-sitemap": "2.3.1"
+    "vuepress-plugin-sitemap": "2.3.1",
+    "ipfs-deploy": "^7.14.0"
   },
   "scripts": {
     "docs:h": "vuepress -h",
     "docs:eject": "vuepress eject docs",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
+    "docs:ipfs-deploy": "./node_modules/ipfs-deploy/bin/ipfs-deploy.js -p pinata docs/.vuepress/dist -u pinata -d cloudflare -C -O",
     "blog:dev": "vuepress dev blog",
     "blog:build": "vuepress build blog"
   },
@@ -33,6 +35,7 @@
     "vuepress": "^1.4.1",
     "vuepress-plugin-flowchart": "^1.4.3",
     "vuepress-plugin-baidu-autopush": "^1.0.1",
-    "vuepress-plugin-sitemap": "2.3.1"
+    "vuepress-plugin-sitemap": "2.3.1",
+    "ipfs-deploy": "^7.14.0"
   }
 }
