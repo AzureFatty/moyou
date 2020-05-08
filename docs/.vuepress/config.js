@@ -8,7 +8,7 @@ module.exports = {
   title: '奇友会',
   description: '电子城机车爱好者指定俱乐部',
   head: [
-    ['meta', { name: 'keywords', content: '360摩托,360机车,360摩友,360MOTOR,奇安信,奇安信摩托,奇安信机车,奇安信摩友,奇虎,奇虎摩托,奇虎机车,奇虎摩友,骑友会,奇友会' }],
+    ['meta', { name: 'keywords', content: '360摩托,360机车,360摩友,360MOTOR,奇安信,奇安信摩托,奇安信机车,奇安信摩友,奇虎,奇虎摩托,奇虎机车,奇虎摩友,骑友会,奇友会,摩友会,互联网机车,机车爱好者' }],
   ],
   markdown: {
     lineNumbers: false // 代码块显示行号
@@ -49,7 +49,7 @@ module.exports = {
       {
         text: '关于',
         items: [
-          { text: '加入我们', link: '/about/joinus' },
+          { text: '加入我们', link: 'https://forum.moyou.club' },
           { text: '联系我们', link: '/about/contactus' },
           { text: '赞助公示', link: '/about/materials-sponsor' }
         ]

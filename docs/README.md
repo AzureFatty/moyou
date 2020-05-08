@@ -3,8 +3,8 @@ home: true
 heroImage: 
 heroText: 奇友会
 tagline: 电子城机车爱好者指定俱乐部
-actionText: 加入我们
-actionLink: /about/joinus
+actionText: 加入俱乐部
+actionLink: https://forum.moyou.club/
 features:
 - title: 安全
   details: 居安思危，右手握着的是生命和未来的路，安全驾驶最重要。
