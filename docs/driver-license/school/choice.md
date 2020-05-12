@@ -2,7 +2,7 @@
 
 ## 驾校位置图
 
-![20181120153509.jpg](https://i.loli.net/2018/11/20/5bf3c020da41b.jpg)
+![驾校位置图](https://pic.downk.cc/item/5eba6646c2a9a83be59fe019.jpg)
 
 ::: warning 考试费/制本费
 
