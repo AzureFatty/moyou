@@ -36,7 +36,8 @@ module.exports = [
             'extensions/mobile-phone-holder',
             'extensions/lock',
             'extensions/charging',
-            'extensions/gopro-accessories'
+            'extensions/gopro-accessories',
+            'extensions/pump'
         ]
     }
 ];
