@@ -21,5 +21,12 @@ module.exports = [
             'master/a-twist-of-the-wrist'
         ]
     },
-    ['traffic_violation/', "违章易发区"],
+    {
+        title: '交通生活',
+        collapsable: false,
+        children: [
+            'traffic_violation/',
+            'traffic_violation/camera'
+        ]
+    },
 ];
