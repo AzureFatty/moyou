@@ -6,6 +6,7 @@ module.exports = [
         children: [
             'shop/jichewaigua',
             'shop/ddacp',
+            'shop/ssgp',
             'shop/dainese',
         ]
     },
