@@ -84,8 +84,8 @@
 昼夜禁止摩托车进入本通告划定区域内道路行驶（不含京良路南五环至芦求路之间路段）。
 
 资料：
-1. [http://www.bjdx.gov.cn/zwxx/zcwj/zfwj/2553141.html](http://www.bjdx.gov.cn/zwxx/zcwj/zfwj/2553141.html)
-2. [http://zfxxgk.beijing.gov.cn/11N000/gfxwj22/2018-12/07/content_74196e1050b141fca341930913bcd450.shtml](http://zfxxgk.beijing.gov.cn/11N000/gfxwj22/2018-12/07/content_74196e1050b141fca341930913bcd450.shtml)
+1. [http://www.beijing.gov.cn/zhengce/zhengcefagui/201910/t20191028_460844.html](http://www.beijing.gov.cn/zhengce/zhengcefagui/201910/t20191028_460844.html)
+2. [http://www.bjdx.gov.cn/bjsdxqrmzf/zwfw/zfwj/634316/index.html](http://www.bjdx.gov.cn/bjsdxqrmzf/zwfw/zfwj/634316/index.html)
 
 ::: 
 
