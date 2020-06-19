@@ -24,3 +24,11 @@ AZ清洗剂购买链接：[https://detail.tmall.com/item.htm?id=19243528549](htt
 ::: tip 提示
 清洗剂使用较费，如果选购赛领，建议活动的时候囤一些，而AZ万年不变的价格，随时可以购买。
 :::
+
+
+### 警告 警告 警告 ！！！！！！
+
+不要图省事,将发动机启动后挂上档位刷,很容易将手指卷到链轮里面发生事故
+以下是事故现场
+
+![](https://common-fd.zol-img.com.cn/g3/M09/01/02/ChMlWF7sV1GIWXMYAAK8HZbGLnwAAU93AJeG-YAArw1989.jpg)
