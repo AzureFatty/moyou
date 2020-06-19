@@ -34,6 +34,13 @@ module.exports = [
         ]
     },
     {
+        title: '链条',
+        collapsable: false,
+        children: [
+            'chain/clean'
+        ]
+    },
+    {
         title: '刹车',
         collapsable: false,
         children: [
