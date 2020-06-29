@@ -30,7 +30,8 @@ module.exports = [
         title: '机油',
         collapsable: false,
         children: [
-            'motor_oil/'
+            'motor_oil/',
+            'motor_oil/suggestion'
         ]
     },
     {
