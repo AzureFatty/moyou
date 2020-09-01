@@ -4,7 +4,7 @@ heroImage:
 heroText: 奇友会
 tagline: 电子城机车爱好者指定俱乐部
 actionText: 加入俱乐部
-actionLink: https://forum.moyou.club/
+actionLink: /about/joinus
 features:
 - title: 安全
   details: 居安思危，右手握着的是生命和未来的路，安全驾驶最重要。
@@ -40,7 +40,7 @@ footer: Copyright © 2020 奇友会
 贡献人员：
 
 「主席」、「烧胎王」、「侃侃」、「dayong」、「宋白丁」、「小伞」、「乌卡」、「宋贵妃」、「老四」、「贾思阳」、「弟弟」、「小怪兽严旭」、
-「BlackMete0r」、「The shadow」、「口鸟」、「龙骑士」、「车神」、「山神」、「摩医」、「宇尉」
+「BlackMete0r」、「The shadow」、「口鸟」、「龙骑士」、「车神」、「山神」、「摩医」、「宇尉」、「CLAUS」
 
 <span style="border-bottom:2px solid green;">**采得百花成蜜后，为谁辛苦为谁甜**</span>
 

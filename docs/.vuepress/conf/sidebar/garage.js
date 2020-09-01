@@ -45,6 +45,13 @@ module.exports = [
         ]
     },
     {
+        title: '信息变更',
+        collapsable: false,
+        children: [
+            ['information-changes/appearance', "摩托车改色备案"]
+        ]
+    },
+    {
         title: '车险',
         collapsable: false,
         children: [

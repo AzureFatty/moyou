@@ -11,9 +11,10 @@ module.exports = [
         collapsable: false,
         children: [
             ['location/yiming', "口鸟机车「荐」"],
+            'location/niuju',
             'location/haojue',
-            'location/xiaosheng',
             'location/dadihengtong-flagship-store',
+            'location/xiaosheng',
             'location/fenghuolun',
             'location/bgfanfan',
         ]
