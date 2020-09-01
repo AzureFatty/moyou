@@ -1,18 +1,18 @@
 {
   "dependencies": {
-    "@vuepress/plugin-active-header-links": "^1.4.1",
-    "@vuepress/plugin-back-to-top": "^1.4.1",
-    "@vuepress/plugin-blog": "^1.4.1",
-    "@vuepress/plugin-medium-zoom": "^1.4.1",
+    "@vuepress/plugin-active-header-links": "^1.5.4",
+    "@vuepress/plugin-back-to-top": "^1.5.4",
+    "@vuepress/plugin-blog": "^1.5.4",
+    "@vuepress/plugin-medium-zoom": "^1.5.4",
     "@vuepress/plugin-pagination": "^1.0.0-alpha.50",
-    "@vuepress/plugin-search": "^1.4.1",
+    "@vuepress/plugin-search": "^1.5.4",
     "moment": "^2.24.0",
     "vue-toasted": "^1.1.28",
-    "vuepress": "^1.4.1",
+    "vuepress": "^1.5.4",
     "vuepress-plugin-flowchart": "^1.4.3",
     "vuepress-plugin-baidu-autopush": "^1.0.1",
     "vuepress-plugin-sitemap": "2.3.1",
-    "ipfs-deploy": "^7.14.0"
+    "ipfs-deploy": "^8.0.1"
   },
   "scripts": {
     "docs:h": "vuepress -h",
@@ -24,18 +24,18 @@
     "blog:build": "vuepress build blog"
   },
   "devDependencies": {
-    "@vuepress/plugin-active-header-links": "^1.4.1",
-    "@vuepress/plugin-back-to-top": "^1.4.1",
-    "@vuepress/plugin-blog": "^1.4.1",
-    "@vuepress/plugin-medium-zoom": "^1.4.1",
+    "@vuepress/plugin-active-header-links": "^1.5.4",
+    "@vuepress/plugin-back-to-top": "^1.5.4",
+    "@vuepress/plugin-blog": "^1.5.4",
+    "@vuepress/plugin-medium-zoom": "^1.5.4",
     "@vuepress/plugin-pagination": "^1.0.0-alpha.50",
-    "@vuepress/plugin-search": "^1.4.1",
+    "@vuepress/plugin-search": "^1.5.4",
     "moment": "^2.24.0",
     "vue-toasted": "^1.1.28",
-    "vuepress": "^1.4.1",
+    "vuepress": "^1.5.4",
     "vuepress-plugin-flowchart": "^1.4.3",
     "vuepress-plugin-baidu-autopush": "^1.0.1",
     "vuepress-plugin-sitemap": "2.3.1",
-    "ipfs-deploy": "^7.14.0"
+    "ipfs-deploy": "^8.0.1"
   }
 }
