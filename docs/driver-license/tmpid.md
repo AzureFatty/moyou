@@ -4,15 +4,26 @@
 
 居住登记卡、居住证、工作居住证是三种不同的东西，在驾照实用程度和办理麻烦程度是按照顺序递增的。因为工作居住证跟考驾照基本没啥关系，所以这里不讨论。
 
+## 办理网点
+[https://jzz.gaj.beijing.gov.cn/fwxt/html/slwd_list/index.html](https://jzz.gaj.beijing.gov.cn/fwxt/html/slwd_list/index.html)
+
 ## 办理方法以及材料
 
 ### 北京市居住登记卡
 
-[http://www.beijing.gov.cn/fuwu/bmfw/bmzt/jzdjk/blzn/t1528679.htm](http://www.beijing.gov.cn/fuwu/bmfw/bmzt/jzdjk/blzn/t1528679.htm)
+[网上申请登记卡](https://jzz.gaj.beijing.gov.cn/fwxt/html/wsdjk/2016/10/21/501.html)
+
+[网上申请卡换证](https://jzz.gaj.beijing.gov.cn/fwxt/html/wskhz/2017/02/27/627.html)
+
+[现场申请登记卡](https://jzz.gaj.beijing.gov.cn/fwxt/html/djk/2016/09/01/273.html)
+
+[现场申请卡换证](https://jzz.gaj.beijing.gov.cn/fwxt/html/khz/2017/02/28/630.html)
 
 ### 北京市居住证
 
-[http://www.beijing.gov.cn/fuwu/bmfw/bmzt/jzz/blzn/t1528031.htm](http://www.beijing.gov.cn/fuwu/bmfw/bmzt/jzz/blzn/t1528031.htm)
+[网上申请居住证](https://jzz.gaj.beijing.gov.cn/fwxt/html/wsjzz/2016/10/21/502.html)
+
+[现场申请居住证](https://jzz.gaj.beijing.gov.cn/fwxt/html/jzz/2016/09/01/278.html)
 
 ## 耗时对比
 
@@ -32,6 +43,6 @@
 租房合同样本：[https://yunpan.360.cn/surl_yuLtBEAj8Lt](https://yunpan.360.cn/surl_yuLtBEAj8Lt)
 
 半年社保证明：
-登录[北京社保](http://www.bjrbj.gov.cn/csibiz/indinfo/login.jsp)提交最近半年的社保申请，并于次日登录下载打印证明。
+登录[北京社保](http://fuwu.rsj.beijing.gov.cn/csibiz/indinfo/login.jsp)提交最近半年的社保申请，并于次日登录下载打印证明。
 
 ![](https://ae01.alicdn.com/kf/Had2a46bac0fe4e39a14439c7bbace92dY.png)
