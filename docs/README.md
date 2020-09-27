@@ -40,7 +40,7 @@ footer: Copyright © 2020 奇友会
 贡献人员：
 
 「主席」、「烧胎王」、「侃侃」、「dayong」、「宋白丁」、「小伞」、「乌卡」、「宋贵妃」、「老四」、「贾思阳」、「弟弟」、「小怪兽严旭」、
-「BlackMete0r」、「The shadow」、「口鸟」、「龙骑士」、「车神」、「山神」、「摩医」、「宇尉」、「CLAUS」
+「BlackMete0r」、「The shadow」、「口鸟」、「龙骑士」、「车神」、「山神」、「摩医」、「宇尉」、「CLAUS」、「哒哒」
 
 <span style="border-bottom:2px solid green;">**采得百花成蜜后，为谁辛苦为谁甜**</span>
 

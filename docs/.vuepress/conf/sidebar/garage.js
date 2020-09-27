@@ -55,6 +55,7 @@ module.exports = [
         title: '车险',
         collapsable: false,
         children: [
+            'insurance/overview',
             'insurance/tci',
             'insurance/vci',
             'insurance/ti',
