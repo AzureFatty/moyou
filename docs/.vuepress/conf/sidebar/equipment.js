@@ -36,6 +36,7 @@ module.exports = [
         children: [
             'extensions/mobile-phone-holder',
             'extensions/lock',
+            'extensions/bluetooth-headset',
             'extensions/charging',
             'extensions/gopro-accessories',
             'extensions/pump'
