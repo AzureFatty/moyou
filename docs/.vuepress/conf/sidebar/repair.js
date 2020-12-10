@@ -14,9 +14,8 @@ module.exports = [
             'location/niuju',
             'location/haojue',
             'location/dadihengtong-flagship-store',
+            'location/ktm-deyuehang',
             'location/xiaosheng',
-            'location/fenghuolun',
-            'location/bgfanfan',
         ]
     },
     {

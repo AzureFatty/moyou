@@ -49,6 +49,7 @@ module.exports = {
       {
         text: '关于',
         items: [
+          { text: '贡献者', link: '/about/contributors' },
           { text: '加入我们', link: '/about/joinus' },
           { text: '联系我们', link: '/about/contactus' },
           { text: '赞助公示', link: '/about/materials-sponsor' }
