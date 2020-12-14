@@ -34,6 +34,6 @@ footer: Copyright © 2021 奇友会
 :::
 <div align="center">
     <span style="border-radius: 8px; display: inline-block; margin: 1em 0!important; padding: .6em 1.2em; background-color: #f3f6f8;">
-        <a href="about/contributors.html" target="_blank"><b>点击查阅贡献者信息</b></a>
+        <a href="about/contributors.html" target="_self"><b>点击查阅贡献者信息</b></a>
     </span>
 </div>
