@@ -7,7 +7,8 @@ module.exports = [
             'tmpid',
             'renew',
             'illegal-query',
-            'motor-check'
+            'motor-check',
+            'vehicle-and-vessel-tax'
         ]
     },
     {
