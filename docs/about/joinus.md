@@ -21,4 +21,4 @@
 
 :::
 
-<img src="https://inews.gtimg.com/newsapp_ls/0/13205972568/0" alt="drawing" style="width:200px;"/>
+<img src="https://inews.gtimg.com/newsapp_ls/0/13205972568/0" alt="微信扫一扫" style="width:200px;"/>
