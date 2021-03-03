@@ -1,13 +1,6 @@
 module.exports = [
     '',
     {
-        title: '原厂说明书',
-        collapsable: false,
-        children: [
-            'file_share/',
-        ]
-    },
-    {
         title: '车辆推荐',
         collapsable: false,
         children: [
