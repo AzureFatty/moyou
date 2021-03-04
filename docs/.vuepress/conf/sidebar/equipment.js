@@ -18,6 +18,17 @@ module.exports = [
         ]
     },
     {
+        title: '头盔',
+        collapsable: false,
+        children: [
+            'helmet/',
+            'helmet/how-to-choose',
+            'helmet/category',
+            'helmet/safety-certificate',
+            'helmet/q&a'
+        ]
+    },
+    {
         title: '运动相机/记录仪',
         collapsable: false,
         children: [
