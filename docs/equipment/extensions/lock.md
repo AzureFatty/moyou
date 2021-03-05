@@ -1,6 +1,14 @@
 # 锁具
 ---
 
+:::tip
+
+碟刹锁的便携性虽然较强，但是安全性不如链条锁
+
+:::
+
+![金杯偷车](https://inews.gtimg.com/newsapp_ls/0/13243755570/0)
+
 ### XENA碟刹锁
 
 ![XENA碟刹锁](https://ae01.alicdn.com/kf/HTB1RzkRbdzvK1RkSnfo762MwVXad.png)
