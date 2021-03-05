@@ -2,6 +2,8 @@
 
 ## GT-Air 2
 
+![](https://p9-bcy.byteimg.com/img/banciyuan/ff88fc034c6642a095830a62e00d2292~tplv-banciyuan-w650.png)
+
 评测人: Gorgias
 
 3270日本海淘购入，双镜片，支持Sena SRL2内嵌蓝牙耳机
