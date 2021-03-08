@@ -7,50 +7,64 @@
       class="dropdown-title"
       type="button"
       :aria-label="dropdownAriaLabel"
-      @click="toggle"
+      @click="handleDropdown"
+    >
+      <span class="title">{{ item.text }}</span>
+      <span
+        class="arrow down"
+      />
+    </button>
+    <button
+      class="mobile-dropdown-title"
+      type="button"
+      :aria-label="dropdownAriaLabel"
+      @click="setOpen(!open)"
     >
       <span class="title">{{ item.text }}</span>
       <span
         class="arrow"
         :class="open ? 'down' : 'right'"
-      ></span>
+      />
     </button>
 
     <DropdownTransition>
       <ul
-        class="nav-dropdown"
         v-show="open"
+        class="nav-dropdown"
       >
         <li
-          class="dropdown-item"
-          :key="subItem.link || index"
           v-for="(subItem, index) in item.items"
+          :key="subItem.link || index"
+          class="dropdown-item"
         >
-          <h4 v-if="subItem.type === 'links'">{{ subItem.text }}</h4>
+          <h4 v-if="subItem.type === 'links'">
+            {{ subItem.text }}
+          </h4>
 
           <ul
-            class="dropdown-subitem-wrapper"
             v-if="subItem.type === 'links'"
+            class="dropdown-subitem-wrapper"
           >
             <li
-              class="dropdown-subitem"
-              :key="childSubItem.link"
               v-for="childSubItem in subItem.items"
+              :key="childSubItem.link"
+              class="dropdown-subitem"
             >
               <NavLink
+                :item="childSubItem"
                 @focusout="
                   isLastItemOfArray(childSubItem, subItem.items) &&
-                  isLastItemOfArray(subItem, item.items) &&
-                  toggle()
+                    isLastItemOfArray(subItem, item.items) &&
+                    setOpen(false)
                 "
-                :item="childSubItem"/>
+              />
             </li>
           </ul>
 
           <NavLink
             v-else
-            @focusout="isLastItemOfArray(subItem, item.items) && toggle()"
             :item="subItem"
+            @focusout="isLastItemOfArray(subItem, item.items) && setOpen(false)"
           />
         </li>
       </ul>
@@ -64,12 +78,11 @@ import DropdownTransition from '@theme/components/DropdownTransition.vue'
 import last from 'lodash/last'
 
 export default {
-  components: { NavLink, DropdownTransition },
+  name: 'DropdownLink',
 
-  data () {
-    return {
-      open: false
-    }
+  components: {
+    NavLink,
+    DropdownTransition
   },
 
   props: {
@@ -78,26 +91,42 @@ export default {
     }
   },
 
-  computed: {
-
-    dropdownAriaLabel () {
-      return this.item.ariaLabel || this.item.text
+  data () {
+    return {
+      open: false
     }
   },
 
-  methods: {
-    toggle () {
-      this.open = !this.open
-    },
-
-    isLastItemOfArray (item, array) {
-      return last(array) === item
+  computed: {
+    dropdownAriaLabel () {
+      return this.item.ariaLabel || this.item.text
     }
   },
 
   watch: {
     $route () {
       this.open = false
+    }
+  },
+
+  methods: {
+    setOpen (value) {
+      this.open = value
+    },
+
+    isLastItemOfArray (item, array) {
+      return last(array) === item
+    },
+
+    /**
+     * Open the dropdown when user tab and click from keyboard.
+     *
+     * Use event.detail to detect tab and click from keyboard. Ref: https://developer.mozilla.org/en-US/docs/Web/API/UIEvent/detail
+     * The Tab + Click is UIEvent > KeyboardEvent, so the detail is 0.
+     */
+    handleDropdown () {
+      const isTriggerByTab = event.detail === 0
+      if (isTriggerByTab) this.setOpen(!this.open)
     }
   }
 }
@@ -123,6 +152,13 @@ export default {
       vertical-align middle
       margin-top -1px
       margin-left 0.4rem
+  .mobile-dropdown-title
+    @extends .dropdown-title
+    display none
+    font-weight 600
+    font-size inherit
+      &:hover
+        color $accentColor
   .nav-dropdown
     .dropdown-item
       color inherit
@@ -130,7 +166,7 @@ export default {
       h4
         margin 0.45rem 0 0
         border-top 1px solid #eee
-        padding 0.45rem 1.5rem 0 1.25rem
+        padding 1rem 1.5rem 0.45rem 1.25rem
       .dropdown-subitem-wrapper
         padding 0
         list-style none
@@ -168,10 +204,9 @@ export default {
     &.open .dropdown-title
       margin-bottom 0.5rem
     .dropdown-title
-      font-weight 600
-      font-size inherit
-      &:hover
-        color $accentColor
+      display: none
+    .mobile-dropdown-title
+      display: block
     .nav-dropdown
       transition height .1s ease-out
       overflow hidden
@@ -196,12 +231,6 @@ export default {
       display block !important
     &.open:blur
       display none
-    .dropdown-title .arrow
-      // make the arrow always down at desktop
-      border-left 4px solid transparent
-      border-right 4px solid transparent
-      border-top 6px solid $arrowBgColor
-      border-bottom 0
     .nav-dropdown
       display none
       // Avoid height shaked by clicking

@@ -4,7 +4,7 @@
 
 ![](https://p9-bcy.byteimg.com/img/banciyuan/d7766d404a3749749028c1236c47f957~tplv-banciyuan-w650.png)
 
-### 评测人：Gorgias
+> 评测人：Gorgias
 
 毒液二代4200购入
 
@@ -25,7 +25,7 @@
 
 ![](https://p9-bcy.byteimg.com/img/banciyuan/ff88fc034c6642a095830a62e00d2292~tplv-banciyuan-w650.png)
 
-### 评测人：Gorgias
+> 评测人：Gorgias
 
 3270日本海淘购入，双镜片，支持Sena SRL2内嵌蓝牙耳机
 

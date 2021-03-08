@@ -1,22 +1,34 @@
 <template>
   <footer class="page-edit">
-    <div class="edit-link" v-if="editLink">
-      <a :href="editLink" target="_blank" rel="noopener noreferrer">{{ editLinkText }}</a>
+    <div
+      v-if="editLink"
+      class="edit-link"
+    >
+      <a
+        :href="editLink"
+        target="_blank"
+        rel="noopener noreferrer"
+      >{{ editLinkText }}</a>
       <OutboundLink />
     </div>
 
-    <div class="last-updated" v-if="lastUpdated">
+    <div
+      v-if="lastUpdated"
+      class="last-updated"
+    >
       <span class="prefix">{{ lastUpdatedText }}:</span>
       <span class="time">{{ lastUpdated }}</span>
     </div>
   </footer>
 </template>
+
 <script>
 import isNil from 'lodash/isNil'
 import { endingSlashRE, outboundRE } from '../util'
 
 export default {
   name: 'PageEdit',
+
   computed: {
     lastUpdated () {
       return this.$page.lastUpdated
@@ -68,8 +80,8 @@ export default {
   methods: {
     createEditLink (repo, docsRepo, docsDir, docsBranch, path) {
       const bitbucket = /bitbucket.org/
-      if (bitbucket.test(repo)) {
-        const base = outboundRE.test(docsRepo) ? docsRepo : repo
+      if (bitbucket.test(docsRepo)) {
+        const base = docsRepo
         return (
           base.replace(endingSlashRE, '')
           + `/src`
@@ -80,12 +92,24 @@ export default {
         )
       }
 
+      const gitlab = /gitlab.com/
+      if (gitlab.test(docsRepo)) {
+        const base = docsRepo
+        return (
+          base.replace(endingSlashRE, '')
+          + `/-/edit`
+          + `/${docsBranch}/`
+          + (docsDir ? docsDir.replace(endingSlashRE, '') + '/' : '')
+          + path
+        )
+      }
+
       const base = outboundRE.test(docsRepo)
         ? docsRepo
         : `https://github.com/${docsRepo}`
       return (
         base.replace(endingSlashRE, '')
-        + `/edit`
+        + '/edit'
         + `/${docsBranch}/`
         + (docsDir ? docsDir.replace(endingSlashRE, '') + '/' : '')
         + path
@@ -94,6 +118,7 @@ export default {
   }
 }
 </script>
+
 <style lang="stylus">
 @require '../styles/wrapper.styl'
 
@@ -116,7 +141,7 @@ export default {
       color lighten($textColor, 25%)
     .time
       font-weight 400
-      color #aaa
+      color #767676
 
 @media (max-width: $MQMobile)
   .page-edit

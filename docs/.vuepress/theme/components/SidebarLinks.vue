@@ -1,9 +1,12 @@
 <template>
   <ul
-    class="sidebar-links"
     v-if="items.length"
+    class="sidebar-links"
   >
-    <li v-for="(item, i) in items" :key="i">
+    <li
+      v-for="(item, i) in items"
+      :key="i"
+    >
       <SidebarGroup
         v-if="item.type === 'group'"
         :item="item"
@@ -14,7 +17,7 @@
       />
       <SidebarLink
         v-else
-        :sidebarDepth="sidebarDepth"
+        :sidebar-depth="sidebarDepth"
         :item="item"
       />
     </li>
@@ -34,23 +37,24 @@ export default {
   props: [
     'items',
     'depth',  // depth of current sidebar links
-    'sidebarDepth' // depth of headers to be extracted
+    'sidebarDepth', // depth of headers to be extracted
+    'initialOpenGroupIndex'
   ],
 
   data () {
     return {
-      openGroupIndex: 0
+      openGroupIndex: this.initialOpenGroupIndex || 0
     }
-  },
-
-  created () {
-    this.refreshIndex()
   },
 
   watch: {
     '$route' () {
       this.refreshIndex()
     }
+  },
+
+  created () {
+    this.refreshIndex()
   },
 
   methods: {
@@ -86,13 +90,16 @@ function resolveOpenGroupIndex (route, items) {
 
 function descendantIsActive (route, item) {
   if (item.type === 'group') {
-    return item.children.some(child => {
+    const childIsActive = item.path && isActive(route, item.path)
+    const grandChildIsActive = item.children.some(child => {
       if (child.type === 'group') {
         return descendantIsActive(route, child)
       } else {
         return child.type === 'page' && isActive(route, child.path)
       }
     })
+
+    return childIsActive || grandChildIsActive
   }
   return false
 }
