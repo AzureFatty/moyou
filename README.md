@@ -1,5 +1,14 @@
 # 奇友会官网
 
+# Usage
+
+```
+# 调试
+npm run docs:dev
+# 生成页面
+npm run docs:build
+```
+
 ## License
 
     Copyright 2018, Engineer Zhou

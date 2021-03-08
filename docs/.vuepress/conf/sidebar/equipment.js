@@ -25,6 +25,7 @@ module.exports = [
             'helmet/how-to-choose',
             'helmet/category',
             'helmet/safety-certificate',
+            'helmet/experience',
             'helmet/q&a'
         ]
     },
