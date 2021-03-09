@@ -2,7 +2,7 @@
   .custom-block-title
     font-weight 600
     margin-bottom -0.4rem
-  &.tip, &.warning, &.danger
+  &.tip, &.warning, &.danger, &.note, &.annotation
     padding .1rem 1.5rem
     border-left-width .5rem
     border-left-style solid
@@ -24,6 +24,22 @@
     color darken(red, 70%)
     .custom-block-title
       color darken(red, 40%)
+    a
+      color $textColor
+  &.note
+    background-color #eceff1
+    border-color darken(#90a4ae, 20%)
+    color darken(#90a4ae, 70%)
+    .custom-block-title
+      color darken(#90a4ae, 40%)
+    a
+      color $textColor
+  &.annotation
+    background-color #fafafa
+    border-color darken(#e0e0e0, 20%)
+    color darken(#e0e0e0, 70%)
+    .custom-block-title
+      color darken(#e0e0e0, 40%)
     a
       color $textColor
   &.details

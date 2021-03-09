@@ -1,43 +1,48 @@
 # 使用体验
 
+::: annotation 意义
+列举了大家对自己头盔的使用感受，而非专业评价，纯粹主观意义。
+:::
+
 ## HJC RPHA11 Pro
 
-![](https://p9-bcy.byteimg.com/img/banciyuan/d7766d404a3749749028c1236c47f957~tplv-banciyuan-w650.png)
+<img src="https://p9-bcy.byteimg.com/img/banciyuan/d7766d404a3749749028c1236c47f957~tplv-banciyuan-w650.png" alt="HJC RPHA11 Pro" height="300">
 
 > 评测人：Gorgias
 
 毒液二代4200购入
 
-### 优点: 
+#### 优点: 
 
-1. 附带黑面罩和透明面罩
-2. 版画丰富，漆水很好
-3. 开关面罩非常轻松
-4. 内部柔软舒适
+- 附带黑面罩和透明面罩
+- 版画丰富，漆水很好
+- 开关面罩非常轻松
+- 内部柔软舒适
 
-### 缺点：
+#### 缺点：
 
-1. 有点夹脸
-2. 较重，戴久了脖子酸
-3. 下巴卡扣不方便  
+- 有点夹脸
+- 较重，戴久了脖子酸
+- 下巴卡扣不方便  
 
 ## SHOEI GT-Air 2
 
-![](https://p9-bcy.byteimg.com/img/banciyuan/ff88fc034c6642a095830a62e00d2292~tplv-banciyuan-w650.png)
+<img src="https://p9-bcy.byteimg.com/img/banciyuan/ff88fc034c6642a095830a62e00d2292~tplv-banciyuan-w650.png" alt="SHOEI GT-Air 2" height="300">
+
 
 > 评测人：Gorgias
 
 3270日本海淘购入，双镜片，支持Sena SRL2内嵌蓝牙耳机
 
-### 优点：
+#### 优点：
 
-1. 适合亚洲人的圆头，佩戴舒适，轻便
-2. 双镜片，快速调节，可以遮阳
-3. 漆水不错
-4. 懒人下巴卡扣
+- 适合亚洲人的圆头，佩戴舒适，轻便
+- 双镜片，快速调节，可以遮阳
+- 漆水不错
+- 懒人下巴卡扣
 
-### 缺点：
+#### 缺点：
 
-1. 墨镜在冬季基本上是没法使用的，容易起雾
-2. 面罩要用力往下压才能闭合
-3. 80以上风燥太大，吵死人了
+- 墨镜在冬季基本上是没法使用的，容易起雾
+- 面罩要用力往下压才能闭合
+- 80以上风燥太大，吵死人了
