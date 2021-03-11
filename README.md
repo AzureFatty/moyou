@@ -1,8 +1,8 @@
 # 奇友会官网
 
-# Usage
+## Usage
 
-```
+``` shell
 # 调试
 npm run docs:dev
 # 生成页面
