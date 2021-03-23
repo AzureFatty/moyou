@@ -31,7 +31,7 @@ module.exports = [
         ]
     },
     {
-        title: '二手车交易',
+        title: '二手车交易转移登记',
         children: [
             ['trade/trade-knowledge', "心得"],
             ['trade/motor-owner-transfer', "过户流程"]
