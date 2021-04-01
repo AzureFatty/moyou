@@ -58,5 +58,5 @@ F. 新车大厅
 楼上排队选号，排队的时候在条码的纸上写好收件人和收货地址，左边是窗户，有笔
 ![](https://img.imgdb.cn/item/60656d1d8322e6675c9655ec.jpg)
 选号完去柜台交条码照片和60元现金，等待绿本和蓝本
-![](https://img.imgdb.cn/item/60656ec88322e6675c983473.jpg)
+![](https://img.imgdb.cn/item/606573b18322e6675c9da5a5.png)
 ![](https://img.imgdb.cn/item/60656d248322e6675c966234.jpg)
