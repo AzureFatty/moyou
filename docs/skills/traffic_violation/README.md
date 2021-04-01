@@ -14,7 +14,7 @@
 
 按照网友提供资料显示，在传媒大学东门，因走非机动车道，产生了违章。
 
-![不按规定车道行驶的](https://ae01.alicdn.com/kf/HTB1GYWabjnuK1RkSmFPq6AuzFXaU.jpg)
+![不按规定车道行驶的](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401162531.jpeg)
 
 ---
 
@@ -23,4 +23,4 @@
 按照网友提供的资料显示，在五环路五元桥南内环，因走应急车道，产生了违章。
 提醒：在非紧急情况下，请不要非法占用应急车道。
 
-![占用应急车道行驶的](https://ae01.alicdn.com/kf/HTB1zKxdRQvoK1RjSZFwq6AiCFXaN.jpg)
+![占用应急车道行驶的](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401162538.jpeg)

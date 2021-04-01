@@ -2,7 +2,7 @@
 
 ## 驾校位置图
 
-![驾校位置图](https://pic.downk.cc/item/5eba6646c2a9a83be59fe019.jpg)
+![驾校位置图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155010.jpeg)
 
 ::: warning 考试费/制本费
 

@@ -18,4 +18,4 @@
 [百度地图链接](https://j.map.baidu.com/21/CK3)
 
 
-[![](https://p.pstatp.com/origin/ffd500025f349818c72b)](https://p.pstatp.com/origin/ffd500025f349818c72b)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161958.png)

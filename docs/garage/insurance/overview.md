@@ -19,4 +19,4 @@
 
 > 下图由哒哒贡献
 
-![保险顺口溜](https://p.pstatp.com/origin/ff5300019fb9c16239cb)
+![保险顺口溜](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160824.png)

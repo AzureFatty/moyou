@@ -16,4 +16,4 @@
 
 [百度地图链接](https://j.map.baidu.com/-XPNZ)
 
-[![](https://ae01.alicdn.com/kf/HTB1kgYcSHvpK1RjSZFqq6AXUVXam.jpg)](https://ae01.alicdn.com/kf/HTB1kgYcSHvpK1RjSZFqq6AXUVXam.jpg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161947.jpeg)

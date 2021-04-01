@@ -21,9 +21,9 @@
 
 百度地图：[https://j.map.baidu.com/19/ufm](https://j.map.baidu.com/19/ufm)
 
-![机车外挂骑士装备（朝阳店）](https://ae01.alicdn.com/kf/H58d9a3a239fb4813a62a2118c958823eP.jpg)
+![机车外挂骑士装备（朝阳店）](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160648.jpeg)
 
-![机车外挂骑士装备（朝阳店）路线图](https://ae01.alicdn.com/kf/Hc05df6c75fa2473ca93ece69d4f0b5afl.png)
+![机车外挂骑士装备（朝阳店）路线图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160656.png)
 
 ## 机车外挂骑士装备（总店）地址
 
@@ -31,6 +31,6 @@
 
 百度地图：[https://j.map.baidu.com/ArPiG](https://j.map.baidu.com/ArPiG)
 
-![机车外挂骑士装备（总店）地图示意图](https://ae01.alicdn.com/kf/HTB1yyt6O4TpK1RjSZFM762G_VXaR.png)
+![机车外挂骑士装备（总店）地图示意图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160707.png)
 
 

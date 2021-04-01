@@ -15,6 +15,6 @@
 
 :::
 
-[![口鸟机车服务处](https://ae01.alicdn.com/kf/He7a8f9c7d9d145599f340c5cc5dcf296u.jpg)](https://ae01.alicdn.com/kf/He7a8f9c7d9d145599f340c5cc5dcf296u.jpg)
+![口鸟机车服务处](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401162139.jpeg)
 
-[![口鸟机车服务处](https://ae01.alicdn.com/kf/H8e4c5434563947cbbfa0d86d984638898.png)](https://ae01.alicdn.com/kf/H8e4c5434563947cbbfa0d86d984638898.png)
+![口鸟机车服务处](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401162155.png)

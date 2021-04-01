@@ -23,4 +23,4 @@ SSGP装备以代A星、SHOEI、ARAI为主
 
 百度地图：[https://j.map.baidu.com/6e/Pxt](https://j.map.baidu.com/6e/Pxt)
 
-![SSGP路线图](https://inews.gtimg.com/newsapp_ls/0/11861230651/0)
+![SSGP路线图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160801.png)

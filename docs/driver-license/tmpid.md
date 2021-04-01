@@ -53,7 +53,7 @@
 半年社保证明：
 登录[北京社保](http://fuwu.rsj.beijing.gov.cn/csibiz/indinfo/login.jsp)提交最近半年的社保申请，并于次日登录下载打印证明。
 
-![](https://ae01.alicdn.com/kf/Had2a46bac0fe4e39a14439c7bbace92dY.png)
+![半年社保证明方法](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401154622.png)
 
 ## 居住卡价格参考
 

@@ -9,6 +9,6 @@
 
 百度地图：[https://j.map.baidu.com/ad/uR6](https://j.map.baidu.com/ad/uR6)
 
-![](https://ae01.alicdn.com/kf/H58c6368b89a64b7b9b194c05b7341ac9Z.jpg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401162220.jpeg)
 
-![](https://ae01.alicdn.com/kf/H47ca0727397b4a4da242a73ac85eb646d.png)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401162229.png)

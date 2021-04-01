@@ -1,6 +1,6 @@
 # 弯道圣经
 
-![Mr. Keith Code](https://p.pstatp.com/origin/dc110004a9397a443f11)
+![Mr. Keith Code](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401162303.jpeg)
 
 ### 观看方式
 

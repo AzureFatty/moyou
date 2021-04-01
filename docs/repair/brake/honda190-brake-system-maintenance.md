@@ -1,6 +1,6 @@
 # 本田190刹车系统保养
 
-[![](https://ae01.alicdn.com/kf/HTB1jVYiSFzqK1RjSZFvq6AB7VXas.jpg)](https://v.youku.com/v_show/id_XNDA4OTg0NjcxMg==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161848.jpeg)](https://v.youku.com/v_show/id_XNDA4OTg0NjcxMg==.html)
 
 [一万公里本田CBF190X刹车系统的保养 176 【LongWay摩托志】](https://v.youku.com/v_show/id_XNDA4OTg0NjcxMg==.html)
 

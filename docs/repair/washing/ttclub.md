@@ -9,6 +9,6 @@ Triple T CLUB 仨树机车位于751动力广场ACE CAFE后栋，主营各类摩�
 
 百度地图：[https://j.map.baidu.com/24/QS6](https://j.map.baidu.com/24/QS6)
 
-![](https://ae01.alicdn.com/kf/H0849034f3f1c42a4bbc98cc9950110cai.jpg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401162241.jpeg)
 
-![](https://ae01.alicdn.com/kf/H0bf0c9eb43ac4261b86c68edc6ee88b1X.jpg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401162250.jpeg)

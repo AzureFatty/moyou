@@ -6,7 +6,7 @@
 
 [政策链接 http://www.chinatax.gov.cn/n810219/n810744/n3439465/n3439475/n3439539/c3448014/content.html](http://www.chinatax.gov.cn/n810219/n810744/n3439465/n3439475/n3439539/c3448014/content.html)
 
-![政策截图](https://p.pstatp.com/origin/138d800005b3aa9f81937)
+![政策截图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401154735.png)
 
 ## 办理地点
 
@@ -38,7 +38,7 @@
 
 使用微信预约现场办理日期。
 
-![朝阳区税务局微信公众号](https://p.pstatp.com/origin/137f700022c3ba722465d)
+![朝阳区税务局微信公众号](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401154805.png)
 
 
 点击流程如下：
@@ -63,9 +63,9 @@
 
 以下是签到码，在二层的等待区柱子上贴着。
 
-![签到码](https://p.pstatp.com/origin/138f3000051cd28e1ab17)
+![签到码](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401154834.png)
 
-![叫号系统](https://p.pstatp.com/origin/137f0000234caf86b5cbb)
+![叫号系统](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401154855.jpeg)
 
 
 ## 办理过程
@@ -84,11 +84,11 @@
 
 内容如下：
 
-![摩托车车船税减免情况说明保证书](https://p.pstatp.com/origin/fe7b0003adb3ce321a31)
+![摩托车车船税减免情况说明保证书](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401154921.png)
 
 成功办理，得到如下申报表：
 
-![摩托车车船税纳税申报表](https://p.pstatp.com/origin/138a1000200cc4a023c90)
+![摩托车车船税纳税申报表](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401154937.jpeg)
 
 携带此表再前去办理当年的交强险费用缴纳（可能又会遇到保险业务员不知道此业务的情况）。
 

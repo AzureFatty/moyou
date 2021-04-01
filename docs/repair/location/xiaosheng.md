@@ -17,4 +17,4 @@
 [百度地图链接](https://j.map.baidu.com/35/s-g)
 
 
-[![](https://ae01.alicdn.com/kf/Ha3507f90d5974e2584af96a7a8fb62c2s.png)](https://ae01.alicdn.com/kf/Ha3507f90d5974e2584af96a7a8fb62c2s.png)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401162042.png)
