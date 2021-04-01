@@ -28,6 +28,7 @@ module.exports = [
             ['motor-register/acquisition-tax', "2.车辆购置税缴纳"],
             ['motor-register/temp-license', "3.办理临牌"],
             ['motor-register/check-motor', "4.验车上牌"],
+            ['motor-register/jingshun-newmotor-check-walkthrough', "5.京顺检测场验车攻略"],
         ]
     },
     {
