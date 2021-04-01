@@ -56,7 +56,7 @@ F. 新车大厅
 ![](https://img.imgdb.cn/item/60656cff8322e6675c96332f.jpg)
 叫号后在业务窗口，交拓印的贴纸，签两份承诺书
 楼上排队选号，排队的时候在条码的纸上写好收件人和收货地址，左边是窗户，有笔
-![](https://img.imgdb.cn/item/60656d1d8322e6675c9655ec.jpg)
-选号完去柜台交条码照片和60元现金，等待绿本和蓝本
 ![](https://img.imgdb.cn/item/606573b18322e6675c9da5a5.png)
+选号完去柜台交条码照片和60元现金，等待绿本和蓝本
+![](https://img.imgdb.cn/item/606574538322e6675c9e548c.jpg)
 ![](https://img.imgdb.cn/item/60656d248322e6675c966234.jpg)
