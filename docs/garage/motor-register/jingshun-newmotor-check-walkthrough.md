@@ -1,6 +1,6 @@
 # 京顺机检测场摩托车新车上牌最稳攻略
 
-作者：[Gorgias][https://gorgias.me]
+作者：[Gorgias](https://gorgias.me)
 
 新车上牌，就算找代办验车，也得本人去大厅排队。
 
