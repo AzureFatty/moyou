@@ -7,6 +7,15 @@
 
 #### 车辆使用说明书
 
+::: tip  更全的渠道 <Badge text="推荐" type="tip"/>
+
+
+全球车型使用手册可以通过[https://www.manualslib.com/](https://www.manualslib.com/) 进行查阅，涵盖车型非常丰富。
+
+GooglePlay 下载地址：[https://play.google.com/store/apps/details?id=com.manualslib.app](https://play.google.com/store/apps/details?id=com.manualslib.app)
+
+:::
+
 |      车型       |              文件名              |
 | :-------------: | :------------------------------: |
 |  KTM 390 Duke   | KTM-390Duke-用户手册（2018）.pdf |
