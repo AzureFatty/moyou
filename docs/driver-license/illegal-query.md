@@ -7,7 +7,18 @@
 
 - 手机下载[**交警12123**](https://bj.122.gov.cn/#/app)进行安装并注册绑定
 
-## 支付宝渠道查询 <Badge text="推荐" type="tip"/>
+
+## 网页查询
+
+> 此方法公户私户都可以，但是只能看到有无违法，无法查看详细信息
+
+- 中华人民共和国中央人民政府官网查询入口：[http://www.gov.cn/fuwu/bmfw/gabjdcwfcx/index.html](http://www.gov.cn/fuwu/bmfw/gabjdcwfcx/index.html)
+
+![机动车违法查询网页版本](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401154521.png)
+
+- 机动车违法查询入口：[http://bj.122.gov.cn/](http://bj.122.gov.cn/views/inquiry.html?q=j)（请参考上图）
+
+## 支付宝渠道查询 <Badge text="暂时失效" type="error"/>
 
 > 此方法公户私户都可以，并且公户车辆能看到违法详细信息
 > 
@@ -15,12 +26,6 @@
 
 ![交通违法支付宝网页查询办法](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401154030.jpeg)
 
-## 网页查询
 
-> 此方法公户私户都可以，但是只能看到有无违法，无法查看详细信息
-
-![机动车违法查询网页版本](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401154521.png)
-
-- 机动车违法查询入口：[http://bj.122.gov.cn/](http://bj.122.gov.cn/views/inquiry.html?q=j)（请参考上图）
 
 
