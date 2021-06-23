@@ -4,6 +4,7 @@ module.exports = [
         collapsable: false,
         children: [
             '',
+            ['main-point', "考试要领"],
             'tmpid',
             'renew',
             'illegal-query',
@@ -15,7 +16,6 @@ module.exports = [
         title: '驾校选择',
         collapsable: false,
         children: [
-            ['school/main-point', "考试要领"],
             'school/choice',
             'school/dfss',
             'school/gjjx',

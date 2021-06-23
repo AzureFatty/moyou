@@ -4,7 +4,7 @@
 > 
 > 参考来源：https://zymin.cn/arcticle/toukui
 
-![半盔&3/4盔&全盔](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155709.png)
+![半盔&3/4盔&全盔](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155709.jpg)
 
 ### 半盔
 
@@ -22,7 +22,7 @@
 
 **除了上图中最常见的Fullface全脸型全盔，全盔还包括以下三个小分类：**
 
-![越野盔&拉力盔&揭面盔](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155722.png)
+![越野盔&拉力盔&揭面盔](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155722.jpg)
 
 #### 越野盔
 

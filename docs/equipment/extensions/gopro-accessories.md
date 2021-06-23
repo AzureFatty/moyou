@@ -19,6 +19,6 @@
 
 [支架购买链接（京东）](https://item.jd.com/100002416203.html)
 
-![支架图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155336.png)
+![支架图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155336.jpg)
 
-![效果图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155351.png)
+![效果图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155351.jpg)

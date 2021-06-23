@@ -13,7 +13,7 @@
 
 :::
 
-[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160412.jpeg)](http://v.youku.com/v_show/id_XMzkzMTA3MjQzMg==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160412.jpg)](http://v.youku.com/v_show/id_XMzkzMTA3MjQzMg==.html)
 
 ---
 
@@ -25,7 +25,7 @@
 
 :::
 
-[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160426.png)](http://v.youku.com/v_show/id_XNDIwMjI5MjA0OA==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160426.jpg)](http://v.youku.com/v_show/id_XNDIwMjI5MjA0OA==.html)
 
 ---
 
@@ -39,7 +39,7 @@
 
 :::
 
-[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160444.png)](http://v.youku.com/v_show/id_XMzkzMTI3MzA1Ng==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160444.jpg)](http://v.youku.com/v_show/id_XMzkzMTI3MzA1Ng==.html)
 
 ---
 
@@ -51,7 +51,7 @@
 
 :::
 
-[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160455.png)](http://v.youku.com/v_show/id_XNDIwMjI3MTYxNg==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160455.jpg)](http://v.youku.com/v_show/id_XNDIwMjI3MTYxNg==.html)
 
 ---
 
@@ -67,7 +67,7 @@
 
 :::
 
-[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160506.png)](https://v.youku.com/v_show/id_XNDIwNDA0Mzg5Ng==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160506.jpg)](https://v.youku.com/v_show/id_XNDIwNDA0Mzg5Ng==.html)
 
 ---
 
@@ -79,7 +79,7 @@
 
 :::
 
-[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160520.png)](http://v.youku.com/v_show/id_XNDIwNDA0NDczMg==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160520.jpg)](http://v.youku.com/v_show/id_XNDIwNDA0NDczMg==.html)
 
 ---
 
@@ -91,7 +91,7 @@
 
 :::
 
-[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160536.png)](http://v.youku.com/v_show/id_XNDIzMzk5MjEyNA==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160536.jpg)](http://v.youku.com/v_show/id_XNDIzMzk5MjEyNA==.html)
 
 ---
 
@@ -105,7 +105,7 @@
 
 :::
 
-[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160549.png)](http://v.youku.com/v_show/id_XNDIwNDEyNTI3Ng==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160549.jpg)](http://v.youku.com/v_show/id_XNDIwNDEyNTI3Ng==.html)
 
 ---
 
@@ -120,5 +120,5 @@
 :::
 
 
-[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160559.png)](http://v.youku.com/v_show/id_XNDIzMzk4MjMxMg==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160559.jpg)](http://v.youku.com/v_show/id_XNDIzMzk4MjMxMg==.html)
 

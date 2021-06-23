@@ -8,7 +8,7 @@
 头盔、服装、手套、靴子基本的四大件也成了保护骑士的主要途径，随着这些年来的科普和关注，头盔首当其冲的得到了大家的正确认识，snell认证，
 sharp测试等等都成为了大家选购头盔的标准。那么护具呢？什么样的护具，或者说什么标准的护具是安全的呢？
 
-![CE Logo](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155052.jpeg)
+![CE Logo](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155052.jpg)
 
 护具大多使用的是欧洲CE标准“ConformitéEuropéene”说白了意思就是符合，符合什么呢？欧盟的EN1621。这个标准的安全性分为两级，也就是1和2
 两个级别。在耐磨性、抗冲击切割阻力乃至爆破强度都是2大于1。也就是说，2级的缓冲效果更好。
@@ -40,7 +40,7 @@ L或者LB是腰部防护。
 
 下边我们来看看CE认证标示，以及看看我们上述的内容在标示中如何体现的。
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155137.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155137.jpg)
 
 1. 摩托车使用护具。
 2. 表明位置（如上所述，K+L是膝盖和胫骨），这里的Type A或者B指的是外壳宽度，也就是说在自行更换护具的时候，这是一个很重要的参数。
@@ -49,7 +49,7 @@ L或者LB是腰部防护。
 5. 护具等级，对，这个位置的1和2才是我们一开始说的防护等级。
 6. 虽然图里没有六，最下边写着EN 1621-1:2012。这个结合上边的内容也是可以看懂了。
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155201.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155201.jpg)
 
  在日常的骑行中，我们可以根据当天要骑行的危险系数来决定使用什么级别的护具。例如日常通勤，CE1是足够的。而今天要跑跑赛道啊甚至于跑山，
  我们都可以选择CE2级别让自己的到一个更好的防护性。在国外，很多赛车场是要求佩戴通过CE等级护具的，也就是说，你的护具没有CE认证是不许进入赛道的。
@@ -57,15 +57,15 @@ L或者LB是腰部防护。
  在这我们要特别提一下D3O，D3O并不是一个等级，而是一家叫D3O的护具公司研发的以自己公司命名的材质，大体上来说就是慢回弹技术。
  在达到欧盟标准的同时可以提供相对舒适的佩戴效果。
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155215.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155215.jpg)
 
  同样为了追究更多舒适性的还有丹尼斯的pro系列。偷轻和通风都比D3O更好。
 
- ![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155227.jpeg)
+ ![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155227.jpg)
 
  这类护具还有revit的seesmart系列。不仅可达到ce标准，相比D3O还有这更好的透气性。当然相比丹尼斯更加的轻薄。
 
- ![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155243.jpeg)
+ ![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155243.jpg)
 
 一般这类护具会作为顶级用在街道骑行服里，赛道的连体皮衣中反而很少有这种偷轻或者过分强调舒适性的护具。
 
@@ -73,5 +73,5 @@ L或者LB是腰部防护。
 
 最后谢谢大家的阅读，釘子的real玩物志是一个新的公众号，如果大家喜欢本篇文章请大家扫码关注下方二维码关注釘子的real玩物志。
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155256.png)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155256.jpg)
 

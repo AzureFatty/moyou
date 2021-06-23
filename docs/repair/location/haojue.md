@@ -16,4 +16,4 @@
 
 [百度地图链接](https://j.map.baidu.com/-XPNZ)
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161947.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161947.jpg)

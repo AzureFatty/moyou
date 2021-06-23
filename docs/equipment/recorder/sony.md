@@ -12,7 +12,7 @@
 
 :::
 
-[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160310.jpeg)](http://v.youku.com/v_show/id_XMzkzMDY4MTAwNA==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160310.jpg)](http://v.youku.com/v_show/id_XMzkzMDY4MTAwNA==.html)
 
 ---
 
@@ -24,7 +24,7 @@
 
 :::
 
-[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160327.png)](http://v.youku.com/v_show/id_XNDE5OTM0Mzk4MA==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160327.jpg)](http://v.youku.com/v_show/id_XNDE5OTM0Mzk4MA==.html)
 
 ### 夜晚效果
 
@@ -36,7 +36,7 @@
 
 :::
 
-[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160343.jpeg)](http://v.youku.com/v_show/id_XMzkzMjI3ODA3Mg==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160343.jpg)](http://v.youku.com/v_show/id_XMzkzMjI3ODA3Mg==.html)
 
 ---
 
@@ -48,4 +48,4 @@
 
 :::
 
-[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160353.png)](http://v.youku.com/v_show/id_XNDE5OTM1ODUzNg==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160353.jpg)](http://v.youku.com/v_show/id_XNDE5OTM1ODUzNg==.html)

@@ -14,7 +14,7 @@
 
 - 中华人民共和国中央人民政府官网查询入口：[http://www.gov.cn/fuwu/bmfw/gabjdcwfcx/index.html](http://www.gov.cn/fuwu/bmfw/gabjdcwfcx/index.html)
 
-![机动车违法查询网页版本](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401154521.png)
+![机动车违法查询网页版本](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401154521.jpg)
 
 - 机动车违法查询入口：[http://bj.122.gov.cn/](http://bj.122.gov.cn/views/inquiry.html?q=j)（请参考上图）
 
@@ -24,7 +24,7 @@
 > 
 > 请按照下图所示的步骤进行操作。
 
-![交通违法支付宝网页查询办法](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401154030.jpeg)
+![交通违法支付宝网页查询办法](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401154030.jpg)
 
 
 

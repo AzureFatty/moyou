@@ -89,23 +89,23 @@ F. 新车大厅
 
 ![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401165440.jpg)
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401170201.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401170201.jpg)
 
 头盔放车上，工作人员拍照，最后车架号撕下来轻轻贴在材料袋或者头盔上（确保可以再次撕下来）
 
 回到【A】环保大厅，按顺序查询，录入，审核，绿色环保材料写上自己的（京B）区域，姓名，手机号，盖章。排队10分钟
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401170213.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401170213.jpg)
 
 去新车大厅，摩托车停门口，拿出身份证复印件，手持身份证，进门去读承诺语，读完盖章，取号
 
-![京顺机动车检测场图示三](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161032.jpeg)
+![京顺机动车检测场图示三](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161032.jpg)
 
 取号排队的时间去取车辆照片
 
 ![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401170324.jpg)
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401170350.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401170350.jpg)
 
 叫号后在业务窗口，交拓印的贴纸，签两份承诺书
 

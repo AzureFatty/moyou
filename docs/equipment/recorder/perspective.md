@@ -13,4 +13,4 @@ bilibili: [https://www.bilibili.com/video/av79387889](https://www.bilibili.com/v
 Youku: [https://v.youku.com/v_show/id_XNDQ3MDMwNTQxNg==.html](https://v.youku.com/v_show/id_XNDQ3MDMwNTQxNg==.html)
 
 
-![https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160153.png](https://ae01.alicdn.com/kf/Ha448a63ca4e94eb49129c7e5eb1e7f9fT.png)
+![https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160153.jpg](https://ae01.alicdn.com/kf/Ha448a63ca4e94eb49129c7e5eb1e7f9fT.jpg)

@@ -4,13 +4,13 @@
 
 赛领清洗剂购买链接：[https://detail.tmall.com/item.htm?id=559183143576](https://detail.tmall.com/item.htm?id=559183143576)
 
-![赛领链条清洗剂](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161900.jpeg)
+![赛领链条清洗剂](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161900.jpg)
 
 #### AZ
 
 AZ清洗剂购买链接：[https://detail.tmall.com/item.htm?id=19243528549](https://detail.tmall.com/item.htm?id=19243528549)
 
-![AZ链条清洗剂](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161912.jpeg)
+![AZ链条清洗剂](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161912.jpg)
 
 
 ### 对比

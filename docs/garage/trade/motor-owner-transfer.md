@@ -1,4 +1,4 @@
-# 摩托车过户攻略
+# 摩托车过户攻略(本市过户)
 
 北京盛鑫旧机动车交易过户中心摩托车过户教程
 
@@ -85,11 +85,11 @@ C 车辆检验材料审核
 
 摩托车车辆查验流程以下图片足以详细解释了，请按照图上的流程序号进行操作处理。
 
-![摩托车车辆检验流程1](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161158.jpeg)
+![摩托车车辆检验流程1](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161158.jpg)
 
-![摩托车车辆检验流程2](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161212.jpeg)
+![摩托车车辆检验流程2](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161212.jpg)
 
-![摩托车车辆检验流程3](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161224.jpeg)
+![摩托车车辆检验流程3](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161224.jpg)
 
 
 ## 交易大厅流程
@@ -98,7 +98,7 @@ C 车辆检验材料审核
 > 
 > 以下数字小标题均对应平面图的数字图注
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161236.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161236.jpg)
 
 ### 1. 领取和填写二手车交易合同
 
@@ -106,23 +106,23 @@ C 车辆检验材料审核
 
 填写合同的过程中有一点需要注意一下，本次交易的价格不能高于上一次购车的价格。
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161252.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161252.jpg)
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161307.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161307.jpg)
 
 ### 2. 交材料等审核
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161316.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161316.jpg)
 
 复印材料是在这里，交材料也是在这个窗口。
 
 ### 3. 工商验证
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161326.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161326.jpg)
 
 ### 4. 开票收费
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161339.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161339.jpg)
 
 收款窗口等大喇叭叫名字（最西边），然后交钱，400块，支持刷卡和现金且支持移动支付。
 
@@ -130,7 +130,7 @@ C 车辆检验材料审核
 
 ### 5. 回到服务台取号
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161354.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161354.jpg)
 
 重新到前台领号，等待叫号办理机动车所有人变更手续
 
@@ -141,7 +141,7 @@ C 车辆检验材料审核
 
 ### 7. 选号
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161405.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161405.jpg)
 
 ![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161736.jpg)
 
@@ -149,13 +149,13 @@ C 车辆检验材料审核
 
 ### 8. 邮寄
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161533.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161533.jpg)
 
 选号成功之后办理号牌邮寄业务。
 
 ### 9. 制证缴费
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161545.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161545.jpg)
 
 然后回到最西边办理临牌以及号牌缴费业务（摩托车缴费50元，只收现金）
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161813.jpeg)
+![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161813.jpg)

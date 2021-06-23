@@ -11,7 +11,7 @@
 
 #### 五匹双USB快充版
 
-![五匹摩托车专用双USB快充图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155313.jpeg)
+![五匹摩托车专用双USB快充图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155313.jpg)
 
 [五匹摩托车专用双USB快充购买链接](https://detail.tmall.com/item.htm?id=583249013632)
 

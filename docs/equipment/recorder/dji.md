@@ -12,7 +12,7 @@
 
 :::
 
-[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155907.png)](http://v.youku.com/v_show/id_XNDE5Mjg4MDQyMA==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155907.jpg)](http://v.youku.com/v_show/id_XNDE5Mjg4MDQyMA==.html)
 
 ---
 
@@ -24,7 +24,7 @@
 
 :::
 
-[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155923.png)](http://v.youku.com/v_show/id_XNDE5MzI5MTk4OA==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155923.jpg)](http://v.youku.com/v_show/id_XNDE5MzI5MTk4OA==.html)
 
 ### 夜间效果
 
@@ -38,4 +38,4 @@ Osmo Action 因镜头擦拭不干净，导致拍摄出“大宝剑”的光晕�
 
 :::
 
-[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155939.png)](http://v.youku.com/v_show/id_XNDE5Mjk1ODIwNA==.html)
+[![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155939.jpg)](http://v.youku.com/v_show/id_XNDE5Mjk1ODIwNA==.html)
