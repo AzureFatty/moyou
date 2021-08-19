@@ -10,13 +10,20 @@
 
 ## 网页查询
 
-> 此方法公户私户都可以，但是只能看到有无违法，无法查看详细信息
+::: warning 注意
 
-- 中华人民共和国中央人民政府官网查询入口：[http://www.gov.cn/fuwu/bmfw/gabjdcwfcx/index.html](http://www.gov.cn/fuwu/bmfw/gabjdcwfcx/index.html)
+公户车辆查询渠道，现在大部分都失效了。
+
+最新的应该是找能过户的黄牛，帮忙查询。
+
+:::
+
+- 机动车违法查询入口：[http://bj.122.gov.cn/](http://bj.122.gov.cn/views/inquiry.html?q=j)（请参考下图）
+
+> 此方法公户私户都可以，但是只能看到有无违法，无法查看详细信息
 
 ![机动车违法查询网页版本](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401154521.jpg)
 
-- 机动车违法查询入口：[http://bj.122.gov.cn/](http://bj.122.gov.cn/views/inquiry.html?q=j)（请参考上图）
 
 ## 支付宝渠道查询 <Badge text="暂时失效" type="error"/>
 
