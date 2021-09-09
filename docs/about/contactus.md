@@ -6,4 +6,4 @@
 
 :::
 
-<img src="https://gitee.com/zhou/MoYouClubPic/raw/master/20210401162849.jpg" alt="微信扫一扫" style="width:200px;"/>
+<img src="https://gitee.com/zhou/MoYouClubPic/raw/master/20210909172817.png" alt="微信扫一扫" style="width:200px;"/>
