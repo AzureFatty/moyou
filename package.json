@@ -19,7 +19,7 @@
     "docs:eject": "vuepress eject docs",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "docs:ipfs-deploy": "./node_modules/ipfs-deploy/bin/ipfs-deploy.js -p pinata docs/.vuepress/dist -u pinata -d cloudflare -C -O",
+    "docs:ipfs-deploy": "ipd -p pinata docs/.vuepress/dist -u pinata -d cloudflare -C -O",
     "blog:dev": "vuepress dev blog",
     "blog:build": "vuepress build blog"
   }
