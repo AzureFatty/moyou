@@ -12,7 +12,8 @@
     "vuepress": "^1.9.5",
     "vuepress-plugin-baidu-autopush": "^1.0.1",
     "vuepress-plugin-flowchart": "^1.4.3",
-    "vuepress-plugin-sitemap": "2.3.1"
+    "vuepress-plugin-sitemap": "2.3.1",
+    "all-relative":"^2.0.0"
   },
   "scripts": {
     "docs:h": "vuepress -h",
