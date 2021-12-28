@@ -1,18 +1,18 @@
 {
   "dependencies": {
-    "@vuepress/plugin-active-header-links": "^1.8.2",
-    "@vuepress/plugin-back-to-top": "^1.8.2",
-    "@vuepress/plugin-blog": "^1.9.4",
-    "@vuepress/plugin-medium-zoom": "^1.8.2",
+    "@vuepress/plugin-active-header-links": "~1.9.5",
+    "@vuepress/plugin-back-to-top": "~1.9.5",
+    "@vuepress/plugin-blog": "~1.9.4",
+    "@vuepress/plugin-medium-zoom": "~1.9.5",
     "@vuepress/plugin-pagination": "^1.0.0-alpha.50",
-    "@vuepress/plugin-search": "^1.8.2",
+    "@vuepress/plugin-search": "~1.9.5",
+    "ipfs-deploy": "^11.1.0",
     "moment": "^2.29.1",
     "vue-toasted": "^1.1.28",
-    "vuepress": "^1.8.2",
-    "vuepress-plugin-flowchart": "^1.4.3",
+    "vuepress": "^1.9.5",
     "vuepress-plugin-baidu-autopush": "^1.0.1",
-    "vuepress-plugin-sitemap": "2.3.1",
-    "ipfs-deploy": "^8.0.1"
+    "vuepress-plugin-flowchart": "^1.4.3",
+    "vuepress-plugin-sitemap": "2.3.1"
   },
   "scripts": {
     "docs:h": "vuepress -h",
@@ -22,20 +22,5 @@
     "docs:ipfs-deploy": "./node_modules/ipfs-deploy/bin/ipfs-deploy.js -p pinata docs/.vuepress/dist -u pinata -d cloudflare -C -O",
     "blog:dev": "vuepress dev blog",
     "blog:build": "vuepress build blog"
-  },
-  "devDependencies": {
-    "@vuepress/plugin-active-header-links": "^1.8.2",
-    "@vuepress/plugin-back-to-top": "^1.8.2",
-    "@vuepress/plugin-blog": "^1.9.4",
-    "@vuepress/plugin-medium-zoom": "^1.8.2",
-    "@vuepress/plugin-pagination": "^1.0.0-alpha.50",
-    "@vuepress/plugin-search": "^1.8.2",
-    "moment": "^2.29.1",
-    "vue-toasted": "^1.1.28",
-    "vuepress": "^1.8.2",
-    "vuepress-plugin-flowchart": "^1.4.3",
-    "vuepress-plugin-baidu-autopush": "^1.0.1",
-    "vuepress-plugin-sitemap": "2.3.1",
-    "ipfs-deploy": "^8.0.1"
   }
 }
