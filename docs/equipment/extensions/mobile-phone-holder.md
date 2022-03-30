@@ -11,7 +11,7 @@
 
 :::
 
-![五匹摩托车手机导航支架图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155627.jpg)
+![五匹摩托车手机导航支架图](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401155627.jpg)
 
 [五匹摩托车手机导航支架（章鱼款）购买链接](https://detail.tmall.com/item.htm?id=589461985062)
 

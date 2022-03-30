@@ -55,7 +55,7 @@
 
 ## 地图介绍
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401165428.jpg)
+![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401165428.jpg)
 
 ::: note 图解
 A. 环保大厅
@@ -77,50 +77,50 @@ F. 新车大厅
 
 直走【A】环保大厅 复印证件，每个复印一份，身份证复印两份，缴费310，出去。
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401165707.jpg)
+![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401165707.jpg)
 
 环保大厅门口【B】手续出口，窗口提交材料，等待5分钟，领取条码的A4纸。
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401165805.jpg)
+![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401165805.jpg)
 
 去环保大厅门口【C】新车外观，敲门找师傅拓印车架号，会贴在油箱上。
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401165856.jpg)
+![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401165856.jpg)
 
 到【D】验车棚处，不用跟汽车排队，直接去小棚子找民警拍照录入，不一定带红袖箍，头盔放车上，等他拍完就可以走了。
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401170105.jpg)
+![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401170105.jpg)
 
 回到入口那条小路，进入口直走到头左转，再到头可以看到年检入口。里面的右侧有个大门，有写【E】摩托车拍照点，哪个门能进就从哪进去，车停好，然后去屋里找人核验资料
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401165440.jpg)
+![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401165440.jpg)
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401170201.jpg)
+![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401170201.jpg)
 
 头盔放车上，工作人员拍照，最后车架号撕下来轻轻贴在材料袋或者头盔上（确保可以再次撕下来）
 
 回到【A】环保大厅，按顺序查询，录入，审核，绿色环保材料写上自己的（京B）区域，姓名，手机号，盖章。排队10分钟
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401170213.jpg)
+![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401170213.jpg)
 
 去新车大厅，摩托车停门口，拿出身份证复印件，手持身份证，进门去读承诺语，读完盖章，取号
 
-![京顺机动车检测场图示三](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161032.jpg)
+![京顺机动车检测场图示三](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161032.jpg)
 
 取号排队的时间去取车辆照片
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401170324.jpg)
+![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401170324.jpg)
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401170350.jpg)
+![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401170350.jpg)
 
 叫号后在业务窗口，交拓印的贴纸，签两份承诺书
 
 楼上排队选号，排队的时候在条码的纸上写好收件人和收货地址，左边是窗户，有笔
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401170448.jpg)
+![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401170448.jpg)
 
 选号完去柜台交条码照片和60元现金，等待绿本和蓝本
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401170612.jpg)
+![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401170612.jpg)
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401170702.jpg)
+![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401170702.jpg)

@@ -16,6 +16,6 @@
 >
 > 13436716086
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401162011.jpg)
+![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401162011.jpg)
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401162022.jpg)
+![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401162022.jpg)

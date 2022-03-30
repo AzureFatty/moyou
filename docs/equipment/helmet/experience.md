@@ -6,7 +6,7 @@
 
 ## HJC RPHA11 Pro
 
-<img src="https://gitee.com/zhou/MoYouClubPic/raw/master/20210401162721.jpg" alt="HJC RPHA11 Pro" height="300">
+<img src="https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401162721.jpg" alt="HJC RPHA11 Pro" height="300">
 
 > 评测人：Gorgias
 
@@ -27,7 +27,7 @@
 
 ## SHOEI GT-Air 2
 
-<img src="https://gitee.com/zhou/MoYouClubPic/raw/master/20210401162746.jpg" alt="SHOEI GT-Air 2" height="300">
+<img src="https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401162746.jpg" alt="SHOEI GT-Air 2" height="300">
 
 
 > 评测人：Gorgias

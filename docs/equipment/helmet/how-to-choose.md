@@ -11,7 +11,7 @@
 
 ## 头盔解剖图
 
-![摩托车头盔的组成](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155736.jpg)
+![摩托车头盔的组成](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401155736.jpg)
 
 **外壳：** ABS工程塑料材质的居多，土豪头盔会用到碳纤维
 
@@ -47,7 +47,7 @@
 
 ## 安全扣
 
-![摩托车头盔](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401155736.jpg)
+![摩托车头盔](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401155736.jpg)
 
 摩托车的安全扣一般分为两种：双D扣和快拆扣。
 

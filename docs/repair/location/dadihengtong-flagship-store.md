@@ -16,4 +16,4 @@
 >
 > 010-84337966
 
-![](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401161935.jpg)
+![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161935.jpg)

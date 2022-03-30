@@ -2,23 +2,23 @@
 
 ### 京A禁行示意图
 
-![京A禁行示意图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160835.jpg)
+![京A禁行示意图](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401160835.jpg)
 
 ### 京B禁行示意图
 
-![京B禁行示意图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160847.jpg)
+![京B禁行示意图](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401160847.jpg)
 
 ### 密云区限行示意图（不分A/B）
 
-![密云区限行示意图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160858.jpg)
+![密云区限行示意图](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401160858.jpg)
 
 ### 大兴区限行示意图（2019年01月01日起，不分A/B）
 
 工作地或者居住地在限行区域内的，可以到当地相关部门开具证明，开具证明后可以在限行区域内行驶。
 
-![大兴区限行示意图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160909.jpg)
+![大兴区限行示意图](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401160909.jpg)
 
-![大兴区限行示意图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401160917.jpg)
+![大兴区限行示意图](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401160917.jpg)
 
 ### 北京市限行政策
 ::: warning 京A

@@ -8,6 +8,6 @@
 而详细的机油相关讲解和选购可以前往[摩托车机油挑选与详解](./suggestion.html)查阅
 :::
 
-![用油树状选择图](https://gitee.com/zhou/MoYouClubPic/raw/master/20210401162209.jpg)
+![用油树状选择图](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401162209.jpg)
 
 > 图片来源：Honda190北京车友微信公众账号
