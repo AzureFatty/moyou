@@ -51,6 +51,12 @@ module.exports = (options, ctx) => {
         }
       }],
       ['container', {
+        type: 'annotation',
+      }],
+      ['container', {
+        type: 'note',
+      }],
+      ['container', {
         type: 'details',
         before: info => `<details class="custom-block details">${info ? `<summary>${info}</summary>` : ''}\n`,
         after: () => '</details>\n'
