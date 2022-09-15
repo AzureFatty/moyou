@@ -34,7 +34,8 @@ module.exports = [
         title: '二手车交易转移登记',
         children: [
             ['trade/trade-knowledge', "心得"],
-            ['trade/motor-owner-transfer', "过户流程(市内转)"],
+            ['trade/motor-owner-transfer-shengxin', "盛鑫过户流程(市内转)"],
+            ['trade/motor-owner-transfer-huaxiang', "花乡过户流程(市内转)"],
             ['trade/motor-owner-transfer-cross-regional', "过户流程(外转京)"]
         ]
     },
