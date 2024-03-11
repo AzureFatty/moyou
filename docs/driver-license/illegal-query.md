@@ -22,7 +22,7 @@
 
 > 此方法公户私户都可以，但是只能看到有无违法，无法查看详细信息
 
-![机动车违法查询网页版本](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401154521.jpg)
+![机动车违法查询网页版本](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401154521.jpg)
 
 
 ## 支付宝渠道查询 <Badge text="暂时失效" type="error"/>
@@ -31,7 +31,7 @@
 > 
 > 请按照下图所示的步骤进行操作。
 
-![交通违法支付宝网页查询办法](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401154030.jpg)
+![交通违法支付宝网页查询办法](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401154030.jpg)
 
 
 

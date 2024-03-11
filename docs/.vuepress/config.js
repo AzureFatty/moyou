@@ -33,9 +33,9 @@ module.exports = {
     }],
   ],
   themeConfig: {
-    repo: 'EngrZhou/moyou',
+    repo: 'AzureFatty/moyou',
     editLinks: true,
-    docsRepo: 'EngrZhou/moyou',
+    docsRepo: 'AzureFatty/moyou',
     docsDir: 'docs',
     editLinkText: 'Edit this page on GitHub',
     lastUpdated: 'Last Updated', // 文档更新时间：每个文件git最后提交的时间

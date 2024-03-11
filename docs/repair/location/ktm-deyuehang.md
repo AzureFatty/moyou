@@ -18,4 +18,4 @@
 [百度地图链接](https://j.map.baidu.com/21/CK3)
 
 
-![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161958.jpg)
+![](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161958.jpg)

@@ -19,4 +19,4 @@
 
 > 下图由哒哒贡献
 
-![保险顺口溜](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401160824.jpg)
+![保险顺口溜](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401160824.jpg)

@@ -14,4 +14,4 @@
 
 百度地图：[https://j.map.baidu.com/BVnv2](https://j.map.baidu.com/BVnv2)
 
-![DAINESE装备店铺图示](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401160612.jpg)
+![DAINESE装备店铺图示](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401160612.jpg)

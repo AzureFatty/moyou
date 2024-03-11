@@ -11,7 +11,7 @@
 
 ### XENA碟刹锁
 
-![XENA碟刹锁](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401155551.jpg)
+![XENA碟刹锁](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401155551.jpg)
 
 > 此款锁具，购买处较多，不再贴出地址。部分商家可9折购买，不清楚的可以联系群内咨询。
 
@@ -25,7 +25,7 @@
 
 ### DF链条锁
 
-![DF链条锁](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401155608.jpg)
+![DF链条锁](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401155608.jpg)
 
 > 此款锁具，购买处较多，不再贴出地址。
 

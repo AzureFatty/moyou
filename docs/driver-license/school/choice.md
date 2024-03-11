@@ -2,7 +2,7 @@
 
 ## 驾校位置图
 
-![驾校位置图](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401155010.jpg)
+![驾校位置图](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401155010.jpg)
 
 ::: warning 考试费/制本费
 

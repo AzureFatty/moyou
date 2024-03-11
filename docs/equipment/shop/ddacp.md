@@ -21,6 +21,6 @@
 
 百度地图：[https://j.map.baidu.com/ce/9dm](https://j.map.baidu.com/ce/9dm)
 
-![黛德安车品店](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401160622.jpg)
+![黛德安车品店](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401160622.jpg)
 
-![黛德安车品店路线图](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401160636.jpg)
+![黛德安车品店路线图](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401160636.jpg)

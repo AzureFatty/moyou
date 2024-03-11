@@ -9,6 +9,6 @@
 
 百度地图：[https://j.map.baidu.com/ad/uR6](https://j.map.baidu.com/ad/uR6)
 
-![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401162220.jpg)
+![](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401162220.jpg)
 
-![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401162229.jpg)
+![](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401162229.jpg)

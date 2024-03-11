@@ -6,4 +6,4 @@
 
 :::
 
-<img src="https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210909172817.png" alt="微信扫一扫" style="width:200px;"/>
+<img src="https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210909172817.png" alt="微信扫一扫" style="width:200px;"/>

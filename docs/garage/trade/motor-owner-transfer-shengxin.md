@@ -53,7 +53,7 @@
 
 > **特别感谢「佛系汪丶」制图**
 
-![盛鑫车辆交易中心平面示意图](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161119.jpg)
+![盛鑫车辆交易中心平面示意图](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161119.jpg)
 
 ::: note 图解
 A 绿马甲工作人员
@@ -85,11 +85,11 @@ C 车辆检验材料审核
 
 摩托车车辆查验流程以下图片足以详细解释了，请按照图上的流程序号进行操作处理。
 
-![摩托车车辆检验流程1](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161158.jpg)
+![摩托车车辆检验流程1](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161158.jpg)
 
-![摩托车车辆检验流程2](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161212.jpg)
+![摩托车车辆检验流程2](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161212.jpg)
 
-![摩托车车辆检验流程3](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161224.jpg)
+![摩托车车辆检验流程3](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161224.jpg)
 
 
 ## 交易大厅流程
@@ -98,7 +98,7 @@ C 车辆检验材料审核
 > 
 > 以下数字小标题均对应平面图的数字图注
 
-![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161236.jpg)
+![](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161236.jpg)
 
 ### 1. 领取和填写二手车交易合同
 
@@ -106,23 +106,23 @@ C 车辆检验材料审核
 
 填写合同的过程中有一点需要注意一下，本次交易的价格不能高于上一次购车的价格。
 
-![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161252.jpg)
+![](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161252.jpg)
 
-![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161307.jpg)
+![](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161307.jpg)
 
 ### 2. 交材料等审核
 
-![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161316.jpg)
+![](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161316.jpg)
 
 复印材料是在这里，交材料也是在这个窗口。
 
 ### 3. 工商验证
 
-![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161326.jpg)
+![](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161326.jpg)
 
 ### 4. 开票收费
 
-![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161339.jpg)
+![](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161339.jpg)
 
 收款窗口等大喇叭叫名字（最西边），然后交钱，400块，支持刷卡和现金且支持移动支付。
 
@@ -130,7 +130,7 @@ C 车辆检验材料审核
 
 ### 5. 回到服务台取号
 
-![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161354.jpg)
+![](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161354.jpg)
 
 重新到前台领号，等待叫号办理机动车所有人变更手续
 
@@ -141,21 +141,21 @@ C 车辆检验材料审核
 
 ### 7. 选号
 
-![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161405.jpg)
+![](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161405.jpg)
 
-![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161736.jpg)
+![](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161736.jpg)
 
 等成功拿到《机动车登记受理凭证》之后，在180秒内去选号机选号（50选1）。
 
 ### 8. 邮寄
 
-![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161533.jpg)
+![](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161533.jpg)
 
 选号成功之后办理号牌邮寄业务。
 
 ### 9. 制证缴费
-![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161545.jpg)
+![](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161545.jpg)
 
 然后回到最西边办理临牌以及号牌缴费业务（摩托车缴费50元，只收现金）
 
-![](https://cdn.jsdelivr.net/gh/EngrZhou/MoYouClubPic@master/2021/20210401161813.jpg)
+![](https://cdn.jsdelivr.net/gh/AzureFatty/MoYouClubPic@master/2021/20210401161813.jpg)
