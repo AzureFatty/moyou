@@ -33,29 +33,3 @@ GooglePlay 下载地址：[https://play.google.com/store/apps/details?id=com.man
 |    KTM 390 Duke    |    KTM-390Duke-2017维修手册.pdf    |
 |   贝纳利 黄龙300   |     Beneli-TNT300-维修手册.pdf     |
 |        ...         |                ...                 |
-
----
-
-### 其他下载地址
-
-[https://home.pionc.com:8443](https://home.pionc.com:8443)
-
-用户名：`Benelli` 密码：`123`
-
-由[Pionc.com](http://pionc.com)提供服务,[Owncloud](https://owncloud.com)强力驱动
-
-|          车型          |                        文件名                         |
-| :--------------------: | :---------------------------------------------------: |
-|      Benelli 302S      |                302S Owners Manual.pdf                 |
-| Benelli Andretti 150XT |        Benelli Andretti 150XT Parts Manual.pdf        |
-|     Benelli BN302      |           Benelli BN302 Owner's Manual.pdf            |
-|        Benelli         |               BENELLIFaultCodesDTC.pdf                |
-|        Benelli         |      Benelli Sprite & Barracuda Parts Manual.pdf      |
-|        Benelli         | Benelli Sprite & Barracuda Shop Manual_compressed.pdf |
-|    Benelli TnT 1130    |  Benelli TnT 1130 Sport Use & Maintenance Manual.pdf  |
-|     Benelli TNT25      |            Benelli-TNT25-Owners-Manual.pdf            |
-|    Benelli Tre 1130    |   Benelli Tornado Naked Tre 1130 Owner's Manual.pdf   |
-|    Benelli TRK-502     |           Benelli-TRK-502-Owners-Manual.pdf           |
-|      Benelli 302s      |                owners-manual-302s.pdf                 |
-|     Benelli TNT300     |                  TNT300维修手册.pdf                   |
-|          ...           |                          ...                          |
